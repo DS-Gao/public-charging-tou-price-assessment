@@ -7,13 +7,19 @@ This repository measures local electricity, service and total-price contrasts in
 
 The study uses Beijing public charging transactions and independent UrbanEV station-price observations. See [data sources and licenses](DATA_SOURCES.md) and the [paper-to-code map](docs/PAPER_MAP.md).
 
+## Submission evidence and fixed version
+
+The R4.26 submission materials are indexed at [release `vR4.26-submission`](https://github.com/DS-Gao/public-charging-tou-price-assessment/releases/tag/vR4.26-submission). Download the source archive at that tag for the maintained code, derived panels and saved resampling results. The companion `R426_Analysis_Evidence.zip` supplies the preserved four-input assessment, support summaries, full reconstruction replicates and aggregation/station/grid sensitivities; verify it with the accompanying SHA-256 file and its internal `verify_evidence.py`.
+
+See [the submission reproduction map](docs/R426_SUBMISSION.md) for the distinction between executable public workflows, frozen results and historical source snapshots. No raw Beijing transactions or full UrbanEV archives are redistributed here. Obtain them using the original Figshare/Dryad DOIs in [DATA_SOURCES.md](DATA_SOURCES.md).
+
 ## Quick start
 
 Requires Python 3.12. Clone the repository, create a virtual environment, and install the tested dependencies:
 
 ```sh
-git clone https://github.com/DS-Gao/charging-price-measurement.git
-cd charging-price-measurement
+git clone https://github.com/DS-Gao/public-charging-tou-price-assessment.git
+cd public-charging-tou-price-assessment
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
@@ -38,7 +44,7 @@ For the formal reconstruction simulation, use `--phase formal --reps 2000`. This
 ## Layout
 
 ```text
-charging-price-measurement/
+public-charging-tou-price-assessment/
 ├── run.py                  # Single entry point
 ├── src/
 │   ├── prices/             # Reconstruction, estimators and resampling

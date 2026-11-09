@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite this software and the underlying datasets when using these analyses."
 type: software
-title: "charging-price-measurement: Component-resolved measurement of time-of-use prices for public charging assessment"
+title: "public-charging-tou-price-assessment: Component-resolved measurement of time-of-use prices for public charging assessment"
 authors:
   - family-names: Gao
     given-names: Dongsheng
@@ -9,8 +9,8 @@ authors:
     given-names: Junjie
   - family-names: Lee
     given-names: Jaeyoung Jay
-repository-code: "https://github.com/DS-Gao/charging-price-measurement"
-url: "https://github.com/DS-Gao/charging-price-measurement"
+repository-code: "https://github.com/DS-Gao/public-charging-tou-price-assessment"
+url: "https://github.com/DS-Gao/public-charging-tou-price-assessment"
 license: MIT
 keywords:
   - electric vehicle charging

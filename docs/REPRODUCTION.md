@@ -27,3 +27,7 @@ The complete historical model-fitting and simulation sequence, the original pair
 ## Integrity and provenance
 
 `python scripts/verify_release.py` checks file hashes, parses every Python source, and detects missing packaged files. The root entry point performs this check before executing a workflow; individual routines also compare estimates and expected inputs. Checksums cover the reorganized release. Original scientific input bytes are retained, with previous locations recorded in `docs/file_origin_map.csv`. Do not use Python's `-O` option because scientific checks use assertions.
+
+## R4.26 submission evidence
+
+See [R426_SUBMISSION.md](R426_SUBMISSION.md) for the fixed version, the preserved E+S and support-conditioned results, complete reconstruction replicates, aggregation/station/grid sensitivities, and historical-source dependencies. The original CLI scope described above is unchanged.

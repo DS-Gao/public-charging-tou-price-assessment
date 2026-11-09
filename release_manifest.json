@@ -1,6 +1,6 @@
 {
-  "schema": "ev-charging-public-release-v2",
-  "date_prepared": "2026-10-18",
+  "schema": "ev-charging-public-release-v3",
+  "date_prepared": "2026-11-09",
   "self_hash_excluded": true,
   "files": [
     {
@@ -25,8 +25,23 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 646,
-      "sha256": "ef1edd518f12a44c2653be441b2e3d616a32e6306060ee697858cce77a82d69c"
+      "bytes": 676,
+      "sha256": "054c61e5aa0355700945291713b7564cb8bb9bacfb88d61bccfd4fe9519e6397"
+    },
+    {
+      "path": "DATA_SOURCES.md",
+      "bytes": 2408,
+      "sha256": "3563ad90c32ebfbc6032fb8deca38dc0cb6b4d7c483f255876a5d876928c8f59"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1102,
+      "sha256": "f04a71227701cd0c7c609b0ca0b1deba486a09750aba68504a4cea12961215bf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5812,
+      "sha256": "f2663c2fee8659083dd076b4f3f6dbe6b28c60140707d0950da5b861d7e05070"
     },
     {
       "path": "config/application.json",
@@ -47,6 +62,11 @@
       "path": "config/reference_sources.json",
       "bytes": 49241,
       "sha256": "4715bf5aa2b9dcf2718982f2db36baa35c583a19e0bb26e894bf1dd44701cff0"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 717,
+      "sha256": "4767d40df3c85a3d0f27964e91f9f6fbc41ac56eaeb2a043dccec32e7dd7d81a"
     },
     {
       "path": "data/derived/common/analysis_metadata.json",
@@ -152,11 +172,6 @@
       "path": "data/derived/prices/fullmonth_unit_rows.csv",
       "bytes": 9464315,
       "sha256": "a264bf80a595ed4cd4a24971047a01d3450c3e3c37df29d24c01f82df4b1286d"
-    },
-    {
-      "path": "data/README.md",
-      "bytes": 717,
-      "sha256": "4767d40df3c85a3d0f27964e91f9f6fbc41ac56eaeb2a043dccec32e7dd7d81a"
     },
     {
       "path": "data/reference/crosswindow/module_b_bootstrap_draws.csv.gz",
@@ -5309,9 +5324,34 @@
       "sha256": "a71208a9fcc1e1940d800985faa89c4f510c1cbfe234f31dcbe4c0db312cf066"
     },
     {
-      "path": "DATA_SOURCES.md",
-      "bytes": 2408,
-      "sha256": "3563ad90c32ebfbc6032fb8deca38dc0cb6b4d7c483f255876a5d876928c8f59"
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 2088,
+      "sha256": "2689d35f9192adefc3a644059a859c1f56fae194e6bf33e48c5615d2da6fb1fb"
+    },
+    {
+      "path": "docs/MAINTAINING.md",
+      "bytes": 1136,
+      "sha256": "3c9d3f7012394d5565d8ffc4faa601dfa59e26a3f5598200ea20fde478e01b80"
+    },
+    {
+      "path": "docs/PAPER_MAP.md",
+      "bytes": 2626,
+      "sha256": "560f9a39b3ec6701081cfa292d51c4b98c62a884643e54bf924a0f1ff5c871ab"
+    },
+    {
+      "path": "docs/R426_SUBMISSION.md",
+      "bytes": 4569,
+      "sha256": "ccea700bee5deeeaaaa585c6a7fa96a93add94c876b1e83e280e9e69db64e837"
+    },
+    {
+      "path": "docs/REPRODUCTION.md",
+      "bytes": 3904,
+      "sha256": "ca727094b56af11150c2448480950925df55fbbcf99fe5e052777284930d7620"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 2184,
+      "sha256": "94aae3f4260f34d4bbd360a6b2c90ffc7baade10aaf468714c8f2f81f5a6b4b9"
     },
     {
       "path": "docs/checks/asset_build_checks.json",
@@ -5369,19 +5409,9 @@
       "sha256": "91b5720804f12065a09f8ea8ea21d8d135763bf8fc77d2988a053f8774c12c61"
     },
     {
-      "path": "docs/DATA_DICTIONARY.md",
-      "bytes": 2088,
-      "sha256": "2689d35f9192adefc3a644059a859c1f56fae194e6bf33e48c5615d2da6fb1fb"
-    },
-    {
       "path": "docs/file_origin_map.csv",
       "bytes": 269778,
       "sha256": "dd769fed54cbf2a805673231681c8ac90fe539ea40a4d4a326d58428313ba09c"
-    },
-    {
-      "path": "docs/MAINTAINING.md",
-      "bytes": 1136,
-      "sha256": "3c9d3f7012394d5565d8ffc4faa601dfa59e26a3f5598200ea20fde478e01b80"
     },
     {
       "path": "docs/manuscript_object_index.csv",
@@ -5389,34 +5419,9 @@
       "sha256": "555de55f4a38dde288de10559a3893f0c9bf018da92ce699e358de523c8489cf"
     },
     {
-      "path": "docs/PAPER_MAP.md",
-      "bytes": 2626,
-      "sha256": "560f9a39b3ec6701081cfa292d51c4b98c62a884643e54bf924a0f1ff5c871ab"
-    },
-    {
-      "path": "docs/REPRODUCTION.md",
-      "bytes": 3589,
-      "sha256": "aaa3b4de17b225d0826241ca4e546992c1f3a4a52392805ce9d531fa1a425ed0"
-    },
-    {
-      "path": "docs/VALIDATION.md",
-      "bytes": 2184,
-      "sha256": "94aae3f4260f34d4bbd360a6b2c90ffc7baade10aaf468714c8f2f81f5a6b4b9"
-    },
-    {
       "path": "examples/README.md",
       "bytes": 912,
       "sha256": "40bc01a39e932cb3028e1c68dcac180fbd4aa479185ec4fea5c5f8e31d2468e2"
-    },
-    {
-      "path": "LICENSE",
-      "bytes": 1102,
-      "sha256": "f04a71227701cd0c7c609b0ca0b1deba486a09750aba68504a4cea12961215bf"
-    },
-    {
-      "path": "README.md",
-      "bytes": 4854,
-      "sha256": "718357f6d4f01febc2c23fce38cab8700f0ece51d75af0b643521308c0b79ab2"
     },
     {
       "path": "requirements-lock.txt",
@@ -5533,5 +5538,6 @@
       "bytes": 1765,
       "sha256": "6675715e31b93a50e9d64043bdf0dcde2958d2d476f9b4a789768ab79cbb42a9"
     }
-  ]
+  ],
+  "fixed_version": "vR4.26-submission"
 }
