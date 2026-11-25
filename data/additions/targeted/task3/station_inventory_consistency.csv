@@ -1,0 +1,4 @@
+﻿check,n_flagged,n_rows,interpretation
+dc_piles_exceed_piles,0,8553,structural_check_not_automatic_exclusion
+dc_guns_exceed_guns,0,8553,structural_check_not_automatic_exclusion
+guns_below_piles,0,8553,structural_check_not_automatic_exclusion

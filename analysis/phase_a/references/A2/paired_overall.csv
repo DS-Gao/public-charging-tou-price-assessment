@@ -1,0 +1,5 @@
+﻿source,target,eval_n,n_layers,mean_paired_abs_loss_reduction,mean_abs_paired_loss_difference,positive_layers,negative_layers,zero_layers,interval_status
+E,LOCAL,5846,10,0.01907237415480654,0.027185145964609775,10,0,0,not estimated
+E,E_plus_S,5846,10,0.01902373553660184,0.027092198556525802,10,0,0,not estimated
+E_plus_S,LOCAL,5846,10,4.863861820470416e-05,0.00048263652899972666,6,4,0,not estimated
+CAL,LOCAL,5846,10,0.01907064996796038,0.027184135484599775,10,0,0,not estimated

@@ -1,0 +1,16 @@
+config,sample_scope,n_units_total,expected_n_units_total,membership_basis,support_basis,scope_pass
+cd,common_all_configs,7554,7554.0,original_A,original+cd+dw,True
+cd,common_original_A,7554,7554.0,original_A,original+cd+dw,True
+cd,common_original_H,7003,7003.0,original_A+original_H,original+cd+dw,True
+cd,common_original_R,7047,7047.0,original_A+original_R,original+cd+dw,True
+cd,fullsample,7554,,configuration-specific-supported-sample,cd,True
+dw,common_all_configs,7554,7554.0,original_A,original+cd+dw,True
+dw,common_original_A,7554,7554.0,original_A,original+cd+dw,True
+dw,common_original_H,7003,7003.0,original_A+original_H,original+cd+dw,True
+dw,common_original_R,7047,7047.0,original_A+original_R,original+cd+dw,True
+dw,fullsample,7554,,configuration-specific-supported-sample,dw,True
+original,common_all_configs,7554,7554.0,original_A,original+cd+dw,True
+original,common_original_A,7554,7554.0,original_A,original+cd+dw,True
+original,common_original_H,7003,7003.0,original_A+original_H,original+cd+dw,True
+original,common_original_R,7047,7047.0,original_A+original_R,original+cd+dw,True
+original,fullsample,8133,,configuration-specific-supported-sample,original,True

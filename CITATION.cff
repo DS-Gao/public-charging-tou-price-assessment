@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite these final research materials and the original data sources."
+title: "Do time-of-use tariffs reach public charging prices? Component-resolved evidence from Beijing and Shenzhen"
+type: software
+authors:
+  - family-names: Gao
+    given-names: Dongsheng
+  - family-names: Hu
+    given-names: Junjie
+  - family-names: Lee
+    given-names: Jaeyoung Jay
+version: v1.0
+date-released: 2026-11-26
+repository-code: "https://github.com/DS-Gao/public-charging-tou-price-assessment"
+url: "https://github.com/DS-Gao/public-charging-tou-price-assessment/releases/tag/v1.0"
+license: MIT

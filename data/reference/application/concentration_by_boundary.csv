@@ -1,0 +1,37 @@
+system,population,event,event_description,group_type,group_value,denominator_n,event_n,event_share_of_system_event,event_share_of_system_A,within_group_event_rate,rank_by_event_n,positive_event_group,positive_event_rank,top1_contributor,top5_contributor,top10_contributor
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,7,2379,799,0.285867620751,0.0982417312185,0.335855401429,1,True,1,True,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,23,1604,586,0.209660107335,0.0720521332842,0.365336658354,2,True,2,False,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,22,1490,517,0.184973166369,0.0635681790237,0.346979865772,3,True,3,False,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,10,1309,443,0.158497316637,0.0544694454691,0.338426279603,4,True,4,False,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,13,776,254,0.0908765652952,0.0312307881471,0.327319587629,5,True,5,False,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,17,575,196,0.0701252236136,0.0240993483339,0.340869565217,6,True,6,False,False,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,0,8335,1001,0.191212989494,0.0202758816261,0.120095980804,1,True,1,True,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,480,8350,994,0.189875835721,0.0201340922441,0.119041916168,2,True,2,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,600,8261,895,0.170964660936,0.0181287852701,0.108340394625,3,True,3,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,840,8266,889,0.169818529131,0.0180072515141,0.107548995887,4,True,4,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,1140,8116,765,0.146131805158,0.0154955538901,0.0942582552982,5,True,5,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,720,8041,691,0.131996179561,0.0139966375661,0.0859345852506,6,True,6,False,False,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,7,2379,47,0.510869565217,0.00577892536579,0.0197562000841,1,True,1,True,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,10,1309,13,0.141304347826,0.00159842616501,0.00993124522536,2,True,2,False,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,13,776,11,0.119565217391,0.00135251444731,0.014175257732,3,True,3,False,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,23,1604,11,0.119565217391,0.00135251444731,0.0068578553616,4,True,4,False,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,22,1490,7,0.0760869565217,0.000860691011927,0.00469798657718,5,True,5,False,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,17,575,3,0.0326086956522,0.00036886757654,0.00521739130435,6,True,6,False,False,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,0,8335,991,0.254559465708,0.0200733253661,0.118896220756,1,True,1,True,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,1140,8116,755,0.193937837144,0.0152929976301,0.093026121242,2,True,2,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,600,8261,725,0.186231697919,0.0146853288501,0.0877617721825,3,True,3,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,840,8266,721,0.185204212689,0.0146043063461,0.0872247761916,4,True,4,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,720,8041,687,0.176470588235,0.0139156150621,0.0854371346847,5,True,5,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,480,8350,14,0.00359619830465,0.000283578764002,0.00167664670659,6,True,6,False,False,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,7,2379,447,0.289695398574,0.0549612689045,0.18789407314,1,True,1,True,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,23,1604,379,0.245625405055,0.0466002705029,0.236284289277,2,True,2,False,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,22,1490,266,0.172391445237,0.0327062584532,0.178523489933,3,True,3,False,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,10,1309,210,0.136098509397,0.0258207303578,0.160427807487,4,True,4,False,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,17,575,121,0.0784186649384,0.0148776589204,0.210434782609,5,True,5,False,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,13,776,120,0.0777705767984,0.0147547030616,0.154639175258,6,True,6,False,False,True
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,0,8335,0,,0,0,1,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,1140,8116,0,,0,0,2,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,480,8350,0,,0,0,3,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,600,8261,0,,0,0,4,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,720,8041,0,,0,0,5,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,840,8266,0,,0,0,6,False,,False,False,False

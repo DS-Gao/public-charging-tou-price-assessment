@@ -1,0 +1,17 @@
+﻿population,target_method,classification,changed,denominator,fraction
+fixed_A,mean,H,106,8133,0.01303332103774745
+fixed_A,mean,R,81,8133,0.009959424566580598
+fixed_A,mean,amount,964,8133,0.1185294479281938
+fixed_A,mean,direction,174,8133,0.02139431943932128
+fixed_A,vwap,H,112,8133,0.01377105619082749
+fixed_A,vwap,R,86,8133,0.01057420386081397
+fixed_A,vwap,amount,1023,8133,0.1257838436001475
+fixed_A,vwap,direction,184,8133,0.02262387802778803
+fixed_H_median,mean,H,7,7479,0.0009359540045460623
+fixed_H_median,mean,R,1,7479,0.0001337077149351518
+fixed_H_median,mean,amount,846,7479,0.1131167268351384
+fixed_H_median,mean,direction,7,7479,0.0009359540045460623
+fixed_H_median,vwap,H,8,7479,0.001069661719481214
+fixed_H_median,vwap,R,3,7479,0.0004011231448054553
+fixed_H_median,vwap,amount,894,7479,0.1195346971520257
+fixed_H_median,vwap,direction,8,7479,0.001069661719481214

@@ -1,0 +1,25 @@
+system,population,event,event_description,group_type,group_value,denominator_n,event_n,event_share_of_system_event,event_share_of_system_A,within_group_event_rate,rank_by_event_n,positive_event_group,positive_event_rank,top1_contributor,top5_contributor,top10_contributor
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2025-07,5510,1918,0.686225402504,0.235829337268,0.348094373866,1,True,1,True,True,True
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2025-01,2623,877,0.313774597496,0.107832288209,0.334349980938,2,True,2,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2023-01,8907,948,0.181088825215,0.0192023334481,0.106433142472,1,True,1,True,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2022-12,8892,938,0.17917860554,0.0189997771881,0.105488079172,2,True,2,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2022-11,8804,885,0.169054441261,0.0179262290101,0.100522489777,3,True,3,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2022-10,8725,882,0.168481375358,0.0178654621321,0.101088825215,4,True,4,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2022-09,8582,813,0.155300859599,0.0164678239381,0.094733162433,5,True,5,False,True,True
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,2023-02,5459,769,0.146895893028,0.0155765763941,0.140868290896,6,True,6,False,False,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2025-07,5510,72,0.782608695652,0.00885282183696,0.0130671506352,1,True,1,True,True,True
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2025-01,2623,20,0.217391304348,0.00245911717693,0.00762485703393,2,True,2,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2023-01,8907,748,0.192139737991,0.0151512082481,0.0839788930055,1,True,1,True,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2022-12,8892,743,0.190855381454,0.0150499301181,0.0835582546109,2,True,2,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2022-11,8804,690,0.177241202158,0.0139763819401,0.0783734666061,3,True,3,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2023-02,5459,627,0.161058309787,0.0127002775021,0.114856200769,4,True,4,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2022-10,8725,624,0.160287695864,0.0126395106241,0.0715186246418,5,True,5,False,True,True
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,2022-09,8582,461,0.118417672746,0.00933784358606,0.0537170822652,6,True,6,False,False,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2025-07,5510,1053,0.682436811406,0.129472519366,0.19110707804,1,True,1,True,True,True
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2025-01,2623,490,0.317563188594,0.0602483708349,0.186808997331,2,True,2,False,True,True
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2022-09,8582,0,,0,0,1,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2022-10,8725,0,,0,0,2,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2022-11,8804,0,,0,0,3,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2022-12,8892,0,,0,0,4,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2023-01,8907,0,,0,0,5,False,,False,False,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,2023-02,5459,0,,0,0,6,False,,False,False,False

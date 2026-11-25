@@ -1,0 +1,21 @@
+{
+  "mixture_component_total_offsets": [
+    [
+      0.00409090909090909,
+      -0.005454545454545455,
+      -0.00545804216496015
+    ],
+    [
+      0.0103125,
+      -0.014285714285714289,
+      -0.01648359800454897
+    ]
+  ],
+  "mixture_boundary_aggregation_residual_truth": -0.008415977917510895,
+  "root_cdf_max_residual": 5.551115123125783e-17,
+  "analytic_cdf_vs_quadrature_max_error": 3.3306690738754696e-16,
+  "total_median_vs_independent_quadrature_root_max_error": 5.466113672802919e-15,
+  "zero_noise_exact_recovery": true,
+  "fee_energy_roundtrip_error": 1.1102230246251565e-16,
+  "status": "PASS"
+}

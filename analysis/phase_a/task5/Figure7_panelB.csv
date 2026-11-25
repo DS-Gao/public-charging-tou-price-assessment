@@ -1,0 +1,12 @@
+﻿frame,seed,scope,month,layer_order,metric,point,ci_low,ci_high,planned,valid,invalid,n,unit,inference_role,display_interval,display_ci_low,display_ci_high
+formation_2342,20260920,layer,2025-01,1,E_to_E_plus_S,0.0054277052281679755,-0.00049760271720238004,0.013022282877314405,2000,2000,0,78,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-01,2,E_to_E_plus_S,0.026163482953183943,0.014215179370056608,0.040589463019294419,2000,2000,0,117,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-01,3,E_to_E_plus_S,0.0026564240897110729,0.00068463518366497392,0.0049914119389413798,2000,2000,0,136,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-01,4,E_to_E_plus_S,0.015574868602657291,0.0085025561962158349,0.022873380498523114,2000,2000,0,176,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-01,5,E_to_E_plus_S,0.012318572456885507,0.0048189117904695192,0.019902293370379329,2000,2000,0,200,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-01,6,E_to_E_plus_S,0.02485869265246024,0.0173279835323586,0.032299563435801475,2000,2000,0,253,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-07,7,E_to_E_plus_S,0.036163190329182228,0.031952270866247266,0.040389937220393857,2000,2000,0,2057,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-07,8,E_to_E_plus_S,0.02254817326779265,0.018491090077793714,0.026945970964197929,2000,2000,0,969,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-07,11,E_to_E_plus_S,0.021206137750416403,0.017345863850029897,0.024931874200298118,2000,2000,0,931,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,layer,2025-07,12,E_to_E_plus_S,0.023320108035561039,0.019674036396567108,0.026898465831697319,2000,2000,0,929,RMB/kWh,conditional supporting / sensitivity,False,,
+formation_2342,20260920,overall_equal_10_layers,ALL,equal_layers,E_to_E_plus_S,0.019023735536601836,0.016560322385298223,0.021409322595962853,2000,2000,0,5846,RMB/kWh,primary,True,0.016560322385298223,0.021409322595962853

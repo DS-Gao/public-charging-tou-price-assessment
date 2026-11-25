@@ -1,0 +1,8 @@
+{
+  "E_plus_S_to_LOCAL_net_MAE_reduction": 4.863861820470416e-05,
+  "net_share_of_E_to_LOCAL_reduction_pct": 0.2550213088832806,
+  "interpretation": "Specified input order, absolute loss, ten-layer weights and observed Y; not a causal or variance contribution.",
+  "positive_layers": 6,
+  "negative_layers": 4,
+  "interval_status": "not estimated"
+}

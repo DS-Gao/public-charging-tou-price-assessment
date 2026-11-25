@@ -1,0 +1,1248 @@
+﻿panel,month,row,metric,value,denominator,definition
+A_daily_transactions,2025-01,2025-01-01 / calendar,base_valid_sessions,39886,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-02 / calendar,base_valid_sessions,37487,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-03 / calendar,base_valid_sessions,47667,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-04 / calendar,base_valid_sessions,37769,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-05 / calendar,base_valid_sessions,36413,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-06 / calendar,base_valid_sessions,38342,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-07 / calendar,base_valid_sessions,37940,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-08 / calendar,base_valid_sessions,45298,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-09 / calendar,base_valid_sessions,43435,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-10 / calendar,base_valid_sessions,46076,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-11 / calendar,base_valid_sessions,33582,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-12 / calendar,base_valid_sessions,32540,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-13 / calendar,base_valid_sessions,33715,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-14 / calendar,base_valid_sessions,47151,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-15 / calendar,base_valid_sessions,68811,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-16 / calendar,base_valid_sessions,64655,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-17 / calendar,base_valid_sessions,96116,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-18 / calendar,base_valid_sessions,113342,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-19 / calendar,base_valid_sessions,106649,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-20 / calendar,base_valid_sessions,114491,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-21 / calendar,base_valid_sessions,114495,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-22 / calendar,base_valid_sessions,120149,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-23 / calendar,base_valid_sessions,123658,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-24 / calendar,base_valid_sessions,124006,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-25 / calendar,base_valid_sessions,99989,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-26 / calendar,base_valid_sessions,95992,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-27 / calendar,base_valid_sessions,98196,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-28 / calendar,base_valid_sessions,46970,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-29 / calendar,base_valid_sessions,44857,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-30 / calendar,base_valid_sessions,54878,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-31 / calendar,base_valid_sessions,58128,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-01 / calendar,base_valid_sessions,208330,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-02 / calendar,base_valid_sessions,214058,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-03 / calendar,base_valid_sessions,206825,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-04 / calendar,base_valid_sessions,236790,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-05 / calendar,base_valid_sessions,216846,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-06 / calendar,base_valid_sessions,207758,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-07 / calendar,base_valid_sessions,218094,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-08 / calendar,base_valid_sessions,206561,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-09 / calendar,base_valid_sessions,211082,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-10 / calendar,base_valid_sessions,203966,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-11 / calendar,base_valid_sessions,233283,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-12 / calendar,base_valid_sessions,208628,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-13 / calendar,base_valid_sessions,204042,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-14 / calendar,base_valid_sessions,218777,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-15 / calendar,base_valid_sessions,193938,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-16 / calendar,base_valid_sessions,202617,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-17 / calendar,base_valid_sessions,216779,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-18 / calendar,base_valid_sessions,236682,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-19 / calendar,base_valid_sessions,199289,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-20 / calendar,base_valid_sessions,178838,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-21 / calendar,base_valid_sessions,210554,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-22 / calendar,base_valid_sessions,213481,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-23 / calendar,base_valid_sessions,215688,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-24 / calendar,base_valid_sessions,202738,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-25 / calendar,base_valid_sessions,216181,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-26 / calendar,base_valid_sessions,201909,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-27 / calendar,base_valid_sessions,184933,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-28 / calendar,base_valid_sessions,194222,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-29 / calendar,base_valid_sessions,180462,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-30 / calendar,base_valid_sessions,203702,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-31 / calendar,base_valid_sessions,146123,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2024-12-31 / tariff,base_valid_sessions,35646,23,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-01 / tariff,base_valid_sessions,36384,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-02 / tariff,base_valid_sessions,47552,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-03 / tariff,base_valid_sessions,38858,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-04 / tariff,base_valid_sessions,36580,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-05 / tariff,base_valid_sessions,37775,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-06 / tariff,base_valid_sessions,37738,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-07 / tariff,base_valid_sessions,45099,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-08 / tariff,base_valid_sessions,43592,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-09 / tariff,base_valid_sessions,46008,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-10 / tariff,base_valid_sessions,33867,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-11 / tariff,base_valid_sessions,32746,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-12 / tariff,base_valid_sessions,33603,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-13 / tariff,base_valid_sessions,45408,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-14 / tariff,base_valid_sessions,68782,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-15 / tariff,base_valid_sessions,64765,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-16 / tariff,base_valid_sessions,93223,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-17 / tariff,base_valid_sessions,113898,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-18 / tariff,base_valid_sessions,106892,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-19 / tariff,base_valid_sessions,113473,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-20 / tariff,base_valid_sessions,114628,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-21 / tariff,base_valid_sessions,119930,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-22 / tariff,base_valid_sessions,123762,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-23 / tariff,base_valid_sessions,124581,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-24 / tariff,base_valid_sessions,101702,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-25 / tariff,base_valid_sessions,96066,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-26 / tariff,base_valid_sessions,99283,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-27 / tariff,base_valid_sessions,49426,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-28 / tariff,base_valid_sessions,44031,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-29 / tariff,base_valid_sessions,54186,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-30 / tariff,base_valid_sessions,57843,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-01,2025-01-31 / tariff,base_valid_sessions,5356,1,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-06-30 / tariff,base_valid_sessions,192459,23,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-01 / tariff,base_valid_sessions,214639,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-02 / tariff,base_valid_sessions,205972,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-03 / tariff,base_valid_sessions,236136,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-04 / tariff,base_valid_sessions,218818,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-05 / tariff,base_valid_sessions,208262,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-06 / tariff,base_valid_sessions,216577,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-07 / tariff,base_valid_sessions,206645,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-08 / tariff,base_valid_sessions,210968,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-09 / tariff,base_valid_sessions,204506,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-10 / tariff,base_valid_sessions,232065,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-11 / tariff,base_valid_sessions,211107,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-12 / tariff,base_valid_sessions,203617,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-13 / tariff,base_valid_sessions,217176,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-14 / tariff,base_valid_sessions,195252,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-15 / tariff,base_valid_sessions,201592,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-16 / tariff,base_valid_sessions,215907,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-17 / tariff,base_valid_sessions,235985,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-18 / tariff,base_valid_sessions,203797,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-19 / tariff,base_valid_sessions,178050,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-20 / tariff,base_valid_sessions,208226,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-21 / tariff,base_valid_sessions,212836,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-22 / tariff,base_valid_sessions,216043,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-23 / tariff,base_valid_sessions,204724,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-24 / tariff,base_valid_sessions,214264,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-25 / tariff,base_valid_sessions,203550,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-26 / tariff,base_valid_sessions,187793,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-27 / tariff,base_valid_sessions,194464,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-28 / tariff,base_valid_sessions,176894,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-29 / tariff,base_valid_sessions,205106,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-30 / tariff,base_valid_sessions,155675,24,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+A_daily_transactions,2025-07,2025-07-31 / tariff,base_valid_sessions,4071,1,All price-base eligible start sessions; may cross intervals; unobserved padding dates omitted
+B_station_coverage,2025-01,2024-12-31 / 07_10,base_stations,170,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 10_13,base_stations,296,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 13_17,base_stations,926,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 17_18,base_stations,1285,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 18_21,base_stations,1960,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 21_22,base_stations,1116,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 22_23,base_stations,1128,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2024-12-31 / 23_07,base_stations,1553,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 07_10,base_stations,352,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 10_13,base_stations,290,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 13_17,base_stations,626,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 17_18,base_stations,776,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 18_21,base_stations,2164,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 21_22,base_stations,1210,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 22_23,base_stations,1232,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-01 / 23_07,base_stations,1676,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 07_10,base_stations,428,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 10_13,base_stations,450,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 13_17,base_stations,2112,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 17_18,base_stations,1571,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 18_21,base_stations,2224,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 21_22,base_stations,1234,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 22_23,base_stations,1314,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-02 / 23_07,base_stations,1740,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 07_10,base_stations,215,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 10_13,base_stations,315,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 13_17,base_stations,954,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 17_18,base_stations,1283,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 18_21,base_stations,2034,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 21_22,base_stations,1148,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 22_23,base_stations,1154,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-03 / 23_07,base_stations,1823,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 07_10,base_stations,287,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 10_13,base_stations,267,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 13_17,base_stations,725,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 17_18,base_stations,994,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 18_21,base_stations,2085,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 21_22,base_stations,1143,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 22_23,base_stations,1187,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-04 / 23_07,base_stations,1724,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 07_10,base_stations,426,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 10_13,base_stations,341,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 13_17,base_stations,1023,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 17_18,base_stations,1426,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 18_21,base_stations,2140,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 21_22,base_stations,1100,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 22_23,base_stations,1173,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-05 / 23_07,base_stations,1725,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 07_10,base_stations,381,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 10_13,base_stations,298,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 13_17,base_stations,753,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 17_18,base_stations,1206,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 18_21,base_stations,2167,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 21_22,base_stations,1148,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 22_23,base_stations,1131,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-06 / 23_07,base_stations,1709,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 07_10,base_stations,420,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 10_13,base_stations,401,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 13_17,base_stations,1528,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 17_18,base_stations,1579,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 18_21,base_stations,2265,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 21_22,base_stations,1290,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 22_23,base_stations,1261,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-07 / 23_07,base_stations,1686,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 07_10,base_stations,509,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 10_13,base_stations,336,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 13_17,base_stations,1001,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 17_18,base_stations,1446,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 18_21,base_stations,2277,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 21_22,base_stations,1244,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 22_23,base_stations,1243,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-08 / 23_07,base_stations,1787,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 07_10,base_stations,402,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 10_13,base_stations,395,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 13_17,base_stations,1591,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 17_18,base_stations,1590,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 18_21,base_stations,2365,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 21_22,base_stations,1332,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 22_23,base_stations,1411,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-09 / 23_07,base_stations,1812,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 07_10,base_stations,596,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 10_13,base_stations,234,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 13_17,base_stations,483,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 17_18,base_stations,360,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 18_21,base_stations,1742,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 21_22,base_stations,1306,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 22_23,base_stations,1333,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-10 / 23_07,base_stations,2006,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 07_10,base_stations,707,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 10_13,base_stations,245,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 13_17,base_stations,536,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 17_18,base_stations,411,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 18_21,base_stations,1851,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 21_22,base_stations,1236,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 22_23,base_stations,1297,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-11 / 23_07,base_stations,1951,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 07_10,base_stations,821,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 10_13,base_stations,243,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 13_17,base_stations,467,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 17_18,base_stations,416,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 18_21,base_stations,2102,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 21_22,base_stations,1214,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 22_23,base_stations,1275,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-12 / 23_07,base_stations,1930,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 07_10,base_stations,988,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 10_13,base_stations,282,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 13_17,base_stations,722,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 17_18,base_stations,997,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 18_21,base_stations,2385,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 21_22,base_stations,1338,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 22_23,base_stations,1345,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-13 / 23_07,base_stations,1979,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 07_10,base_stations,683,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 10_13,base_stations,843,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 13_17,base_stations,2896,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 17_18,base_stations,1698,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 18_21,base_stations,2454,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 21_22,base_stations,1398,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 22_23,base_stations,1442,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-14 / 23_07,base_stations,1789,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 07_10,base_stations,588,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 10_13,base_stations,658,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 13_17,base_stations,2703,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 17_18,base_stations,1677,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 18_21,base_stations,2412,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 21_22,base_stations,1350,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 22_23,base_stations,1371,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-15 / 23_07,base_stations,1915,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 07_10,base_stations,875,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 10_13,base_stations,1752,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 13_17,base_stations,3573,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 17_18,base_stations,2101,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 18_21,base_stations,2879,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 21_22,base_stations,1693,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 22_23,base_stations,1734,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-16 / 23_07,base_stations,1935,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 07_10,base_stations,615,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 10_13,base_stations,2712,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 13_17,base_stations,3332,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 17_18,base_stations,2019,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 18_21,base_stations,2681,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 21_22,base_stations,1668,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 22_23,base_stations,1669,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-17 / 23_07,base_stations,2215,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 07_10,base_stations,555,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 10_13,base_stations,2597,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 13_17,base_stations,3330,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 17_18,base_stations,1978,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 18_21,base_stations,2725,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 21_22,base_stations,1670,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 22_23,base_stations,1658,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-18 / 23_07,base_stations,2123,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 07_10,base_stations,1076,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 10_13,base_stations,2735,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 13_17,base_stations,3406,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 17_18,base_stations,2022,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 18_21,base_stations,2807,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 21_22,base_stations,1651,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 22_23,base_stations,1669,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-19 / 23_07,base_stations,2156,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 07_10,base_stations,984,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 10_13,base_stations,2727,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 13_17,base_stations,3405,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 17_18,base_stations,2006,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 18_21,base_stations,2799,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 21_22,base_stations,1588,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 22_23,base_stations,1696,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-20 / 23_07,base_stations,2148,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 07_10,base_stations,1053,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 10_13,base_stations,2923,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 13_17,base_stations,3446,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 17_18,base_stations,2068,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 18_21,base_stations,2813,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 21_22,base_stations,1727,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 22_23,base_stations,1724,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-21 / 23_07,base_stations,2138,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 07_10,base_stations,1141,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 10_13,base_stations,2994,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 13_17,base_stations,3477,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 17_18,base_stations,2148,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 18_21,base_stations,2873,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 21_22,base_stations,1777,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 22_23,base_stations,1753,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-22 / 23_07,base_stations,2171,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 07_10,base_stations,1175,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 10_13,base_stations,3034,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 13_17,base_stations,3562,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 17_18,base_stations,2145,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 18_21,base_stations,2869,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 21_22,base_stations,1772,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 22_23,base_stations,1739,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-23 / 23_07,base_stations,2246,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 07_10,base_stations,493,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 10_13,base_stations,2314,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 13_17,base_stations,3295,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 17_18,base_stations,1995,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 18_21,base_stations,2668,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 21_22,base_stations,1647,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 22_23,base_stations,1668,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-24 / 23_07,base_stations,2189,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 07_10,base_stations,770,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 10_13,base_stations,2352,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 13_17,base_stations,3460,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 17_18,base_stations,2028,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 18_21,base_stations,2719,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 21_22,base_stations,1609,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 22_23,base_stations,1672,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-25 / 23_07,base_stations,2090,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 07_10,base_stations,819,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 10_13,base_stations,2771,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 13_17,base_stations,3485,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 17_18,base_stations,2062,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 18_21,base_stations,2663,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 21_22,base_stations,1529,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 22_23,base_stations,1567,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-26 / 23_07,base_stations,2077,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 07_10,base_stations,324,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 10_13,base_stations,706,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 13_17,base_stations,2935,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 17_18,base_stations,1570,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 18_21,base_stations,2160,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 21_22,base_stations,1150,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 22_23,base_stations,1249,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-27 / 23_07,base_stations,2047,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 07_10,base_stations,196,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 10_13,base_stations,437,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 13_17,base_stations,2650,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 17_18,base_stations,1688,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 18_21,base_stations,2435,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 21_22,base_stations,1384,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 22_23,base_stations,1410,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-28 / 23_07,base_stations,2153,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 07_10,base_stations,238,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 10_13,base_stations,554,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 13_17,base_stations,2922,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 17_18,base_stations,1762,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 18_21,base_stations,2562,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 21_22,base_stations,1512,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 22_23,base_stations,1511,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-29 / 23_07,base_stations,1971,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 07_10,base_stations,261,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 10_13,base_stations,550,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 13_17,base_stations,2883,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 17_18,base_stations,1771,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 18_21,base_stations,2523,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 21_22,base_stations,1503,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 22_23,base_stations,1513,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-30 / 23_07,base_stations,2036,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-01,2025-01-31 / 23_07,base_stations,1573,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 07_10,base_stations,4026,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 10_11,base_stations,2284,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 11_13,base_stations,3290,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 13_16,base_stations,3876,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 16_17,base_stations,2589,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 17_22,base_stations,4470,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 22_23,base_stations,2407,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-06-30 / 23_07,base_stations,2919,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 07_10,base_stations,4249,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 10_11,base_stations,2252,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 11_13,base_stations,3251,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 13_16,base_stations,3906,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 16_17,base_stations,2589,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 17_22,base_stations,4398,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 22_23,base_stations,2241,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-01 / 23_07,base_stations,3666,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 07_10,base_stations,4144,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 10_11,base_stations,2323,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 11_13,base_stations,3267,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 13_16,base_stations,3758,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 16_17,base_stations,2537,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 17_22,base_stations,4452,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 22_23,base_stations,2371,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-02 / 23_07,base_stations,3463,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 07_10,base_stations,4596,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 10_11,base_stations,2399,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 11_13,base_stations,3472,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 13_16,base_stations,4188,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 16_17,base_stations,2766,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 17_22,base_stations,4789,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 22_23,base_stations,2676,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-03 / 23_07,base_stations,3732,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 07_10,base_stations,3625,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 10_11,base_stations,2464,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 11_13,base_stations,3279,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 13_16,base_stations,3947,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 16_17,base_stations,2749,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 17_22,base_stations,4618,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 22_23,base_stations,2582,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-04 / 23_07,base_stations,3824,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 07_10,base_stations,3600,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 10_11,base_stations,2426,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 11_13,base_stations,3261,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 13_16,base_stations,3945,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 16_17,base_stations,2760,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 17_22,base_stations,4565,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 22_23,base_stations,2552,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-05 / 23_07,base_stations,3706,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 07_10,base_stations,4414,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 10_11,base_stations,2368,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 11_13,base_stations,3358,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 13_16,base_stations,3947,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 16_17,base_stations,2626,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 17_22,base_stations,4491,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 22_23,base_stations,2394,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-06 / 23_07,base_stations,3763,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 07_10,base_stations,4204,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 10_11,base_stations,2274,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 11_13,base_stations,3209,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 13_16,base_stations,3898,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 16_17,base_stations,2509,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 17_22,base_stations,4484,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 22_23,base_stations,2381,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-07 / 23_07,base_stations,3671,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 07_10,base_stations,4181,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 10_11,base_stations,2285,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 11_13,base_stations,3271,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 13_16,base_stations,3883,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 16_17,base_stations,2574,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 17_22,base_stations,4464,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 22_23,base_stations,2329,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-08 / 23_07,base_stations,3673,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 07_10,base_stations,3705,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 10_11,base_stations,2285,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 11_13,base_stations,3318,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 13_16,base_stations,3986,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 16_17,base_stations,2617,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 17_22,base_stations,4591,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 22_23,base_stations,2414,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-09 / 23_07,base_stations,3491,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 07_10,base_stations,4475,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 10_11,base_stations,2456,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 11_13,base_stations,3476,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 13_16,base_stations,4195,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 16_17,base_stations,2816,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 17_22,base_stations,4825,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 22_23,base_stations,2667,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-10 / 23_07,base_stations,3790,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 07_10,base_stations,3627,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 10_11,base_stations,2456,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 11_13,base_stations,3268,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 13_16,base_stations,3924,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 16_17,base_stations,2646,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 17_22,base_stations,4468,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 22_23,base_stations,2470,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-11 / 23_07,base_stations,3824,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 07_10,base_stations,3483,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 10_11,base_stations,2396,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 11_13,base_stations,3189,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 13_16,base_stations,3919,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 16_17,base_stations,2702,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 17_22,base_stations,4611,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 22_23,base_stations,2519,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-12 / 23_07,base_stations,3543,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 07_10,base_stations,4379,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 10_11,base_stations,2300,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 11_13,base_stations,3344,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 13_16,base_stations,3999,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 16_17,base_stations,2576,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 17_22,base_stations,4559,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 22_23,base_stations,2415,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-13 / 23_07,base_stations,3782,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 07_10,base_stations,3969,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 10_11,base_stations,2254,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 11_13,base_stations,3291,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 13_16,base_stations,3868,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 16_17,base_stations,2446,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 17_22,base_stations,4264,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 22_23,base_stations,2231,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-14 / 23_07,base_stations,3559,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 07_10,base_stations,4146,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 10_11,base_stations,2260,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 11_13,base_stations,3242,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 13_16,base_stations,3901,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 16_17,base_stations,2478,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 17_22,base_stations,4508,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 22_23,base_stations,2412,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-15 / 23_07,base_stations,3569,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 07_10,base_stations,4059,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 10_11,base_stations,2209,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 11_13,base_stations,3252,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 13_16,base_stations,3896,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 16_17,base_stations,2587,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 17_22,base_stations,4611,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 22_23,base_stations,2510,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-16 / 23_07,base_stations,3696,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 07_10,base_stations,4407,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 10_11,base_stations,2419,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 11_13,base_stations,3443,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 13_16,base_stations,4164,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 16_17,base_stations,2833,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 17_22,base_stations,4809,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 22_23,base_stations,2638,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-17 / 23_07,base_stations,3844,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 07_10,base_stations,3613,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 10_11,base_stations,2469,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 11_13,base_stations,3271,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 13_16,base_stations,3950,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 16_17,base_stations,2581,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 17_22,base_stations,4278,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 22_23,base_stations,2292,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-18 / 23_07,base_stations,3879,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 07_10,base_stations,2913,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 10_11,base_stations,2100,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 11_13,base_stations,3139,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 13_16,base_stations,3880,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 16_17,base_stations,2569,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 17_22,base_stations,4344,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 22_23,base_stations,2341,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-19 / 23_07,base_stations,3314,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 07_10,base_stations,4251,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 10_11,base_stations,2289,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 11_13,base_stations,3227,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 13_16,base_stations,3936,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 16_17,base_stations,2555,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 17_22,base_stations,4543,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 22_23,base_stations,2415,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-20 / 23_07,base_stations,3613,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 07_10,base_stations,4124,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 10_11,base_stations,2304,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 11_13,base_stations,3282,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 13_16,base_stations,3872,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 16_17,base_stations,2592,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 17_22,base_stations,4538,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 22_23,base_stations,2457,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-21 / 23_07,base_stations,3702,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 07_10,base_stations,4140,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 10_11,base_stations,2322,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 11_13,base_stations,3244,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 13_16,base_stations,3959,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 16_17,base_stations,2549,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 17_22,base_stations,4460,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 22_23,base_stations,2371,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-22 / 23_07,base_stations,3693,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 07_10,base_stations,3955,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 10_11,base_stations,2295,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 11_13,base_stations,3337,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 13_16,base_stations,3939,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 16_17,base_stations,2505,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 17_22,base_stations,4256,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 22_23,base_stations,2083,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-23 / 23_07,base_stations,3635,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 07_10,base_stations,4026,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 10_11,base_stations,2524,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 11_13,base_stations,3612,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 13_16,base_stations,4143,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 16_17,base_stations,2663,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 17_22,base_stations,4469,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 22_23,base_stations,2473,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-24 / 23_07,base_stations,3388,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 07_10,base_stations,3552,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 10_11,base_stations,2442,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 11_13,base_stations,3222,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 13_16,base_stations,3938,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 16_17,base_stations,2597,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 17_22,base_stations,4319,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 22_23,base_stations,2405,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-25 / 23_07,base_stations,3614,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 07_10,base_stations,3434,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 10_11,base_stations,2373,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 11_13,base_stations,3192,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 13_16,base_stations,3763,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 16_17,base_stations,2470,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 17_22,base_stations,4254,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 22_23,base_stations,2239,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-26 / 23_07,base_stations,3578,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 07_10,base_stations,4059,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 10_11,base_stations,2198,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 11_13,base_stations,3174,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 13_16,base_stations,3917,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 16_17,base_stations,2521,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 17_22,base_stations,4241,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 22_23,base_stations,1776,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-27 / 23_07,base_stations,3474,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 07_10,base_stations,3048,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 10_11,base_stations,2158,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 11_13,base_stations,3166,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 13_16,base_stations,3864,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 16_17,base_stations,2430,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 17_22,base_stations,4382,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 22_23,base_stations,2286,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-28 / 23_07,base_stations,2994,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 07_10,base_stations,4126,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 10_11,base_stations,2217,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 11_13,base_stations,3221,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 13_16,base_stations,3838,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 16_17,base_stations,2524,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 17_22,base_stations,4515,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 22_23,base_stations,2427,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-29 / 23_07,base_stations,3649,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 07_10,base_stations,3768,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 10_11,base_stations,1952,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 11_13,base_stations,2882,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 13_16,base_stations,3520,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 16_17,base_stations,2072,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 17_22,base_stations,3492,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 22_23,base_stations,1365,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-30 / 23_07,base_stations,3604,,23:00 tariff day; at least one base-valid start
+B_station_coverage,2025-07,2025-07-31 / 23_07,base_stations,1134,,23:00 tariff day; at least one base-valid start
+C_start_hour,2025-01,frozen_tariff / formation / 0,base_fraction,0.06986282999643929,45324,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 1,base_fraction,0.0409367451911886,26558,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 2,base_fraction,0.026684875847197,17312,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 3,base_fraction,0.0218248126802485,14159,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 4,base_fraction,0.0274509562131892,17809,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 5,base_fraction,0.0411170900660802,26675,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 6,base_fraction,0.0326239254451204,21165,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 7,base_fraction,0.0130711499066676,8480,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 8,base_fraction,0.008844605915620101,5738,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 9,base_fraction,0.0071444315822411,4635,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 10,base_fraction,0.0073571460500618,4773,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 11,base_fraction,0.008958670195465999,5812,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 12,base_fraction,0.0114326319407728,7417,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 13,base_fraction,0.0140083266924287,9088,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 14,base_fraction,0.0229515827960237,14890,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 15,base_fraction,0.0337537783792699,21898,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 16,base_fraction,0.0442723546720883,28722,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 17,base_fraction,0.0580679668966963,37672,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 18,base_fraction,0.0734897658137022,47677,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 19,base_fraction,0.0840545843821338,54531,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 20,base_fraction,0.08063111457756909,52310,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 21,base_fraction,0.0700200537335242,45426,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 22,base_fraction,0.0848746140696747,55063,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / formation / 23,base_fraction,0.1165659869565955,75623,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 0,base_fraction,0.0832351455983841,2967,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 1,base_fraction,0.0745665712842955,2658,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 2,base_fraction,0.0681983953318745,2431,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 3,base_fraction,0.0543398978847556,1937,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 4,base_fraction,0.0523480895472142,1866,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 5,base_fraction,0.0539190933064018,1922,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 6,base_fraction,0.0109409190371991,390,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 7,base_fraction,0.0024967738315659,89,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 8,base_fraction,0.004236099422095,151,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 9,base_fraction,0.0055546204342703,198,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 10,base_fraction,0.0072097851091286,257,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 11,base_fraction,0.0083319306514054,297,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 12,base_fraction,0.0094821298322392,338,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 13,base_fraction,0.0114458845312237,408,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 14,base_fraction,0.0146720529652695,523,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 15,base_fraction,0.0172529877125063,615,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 16,base_fraction,0.0275767267014531,983,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 17,base_fraction,0.0769230769230769,2742,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 18,base_fraction,0.0899680188520451,3207,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 19,base_fraction,0.086433260393873,3081,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 20,base_fraction,0.0792234752847444,2824,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 21,base_fraction,0.074734893115637,2664,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / outside_month_split / 22,base_fraction,0.08691017224934069,3098,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 0,base_fraction,0.0508460952703274,72114,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 1,base_fraction,0.0351750007050793,49888,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 2,base_fraction,0.0232309558056237,32948,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 3,base_fraction,0.0100297543503398,14225,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 4,base_fraction,0.0041670192063626,5910,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 5,base_fraction,0.0019192261048594,2722,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 6,base_fraction,0.0012063908396085,1711,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 7,base_fraction,0.0036981414107228,5245,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 8,base_fraction,0.0071600812251459,10155,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 9,base_fraction,0.0058056237132301,8234,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 10,base_fraction,0.0076296641001776,10821,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 11,base_fraction,0.0274705981893561,38961,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 12,base_fraction,0.0578736215697887,82081,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 13,base_fraction,0.0850325746679076,120600,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 14,base_fraction,0.0855846518317962,121383,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 15,base_fraction,0.09482189694559599,134484,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 16,base_fraction,0.0858575175564768,121770,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 17,base_fraction,0.0585674196914572,83065,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 18,base_fraction,0.0533526525086724,75669,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 19,base_fraction,0.0593437121019826,84166,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 20,base_fraction,0.0546020531911893,77441,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 21,base_fraction,0.046652988126463,66167,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 22,base_fraction,0.0566771018416673,80384,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,frozen_tariff / validation / 23,base_fraction,0.0832952590461685,118136,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 0,base_fraction,0.0464186581858254,147766,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 1,base_fraction,0.0307954055687562,98032,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 2,base_fraction,0.020492678740389,65235,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 3,base_fraction,0.0166702687624162,53067,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 4,base_fraction,0.0198923643528227,63324,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 5,base_fraction,0.0413770853935436,131717,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 6,base_fraction,0.0427404367499211,136057,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 7,base_fraction,0.030599698680502,97409,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 8,base_fraction,0.0399254617488845,127096,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 9,base_fraction,0.0361627376597854,115118,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 10,base_fraction,0.0336317418352845,107061,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 11,base_fraction,0.0364639943304688,116077,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 12,base_fraction,0.0423348868418374,134766,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 13,base_fraction,0.0692469399987183,220436,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 14,base_fraction,0.06405583834799509,203911,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 15,base_fraction,0.06835385061941381,217593,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 16,base_fraction,0.0517834771867967,164844,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 17,base_fraction,0.0392208541239179,124853,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 18,base_fraction,0.0393948856104232,125407,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 19,base_fraction,0.0452635791679912,144089,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 20,base_fraction,0.0394335243700625,125530,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 21,base_fraction,0.0307771856658369,97974,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 22,base_fraction,0.0420810647459957,133958,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / formation / 23,base_fraction,0.072883381312411,232012,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 0,base_fraction,0.0435261536223299,8377,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 1,base_fraction,0.0334876519154729,6445,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 2,base_fraction,0.0218643970923677,4208,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 3,base_fraction,0.0190222333068341,3661,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 4,base_fraction,0.0236413989473082,4550,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 5,base_fraction,0.0452719800061311,8713,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 6,base_fraction,0.0440509407198416,8478,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 7,base_fraction,0.0318197642095199,6124,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 8,base_fraction,0.0405800715996653,7810,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 9,base_fraction,0.037758691461558,7267,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 10,base_fraction,0.0377638873734146,7268,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 11,base_fraction,0.042575301752581,8194,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 12,base_fraction,0.0494235135795156,9512,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 13,base_fraction,0.07820886526480959,15052,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 14,base_fraction,0.0677079274027195,13031,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 15,base_fraction,0.07150094305800191,13761,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 16,base_fraction,0.0591710442224058,11388,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 17,base_fraction,0.0416971926488239,8025,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 18,base_fraction,0.0407671244265012,7846,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 19,base_fraction,0.0490390161021308,9438,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 20,base_fraction,0.0428350973454086,8244,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 21,base_fraction,0.0322146535106178,6200,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 22,base_fraction,0.04607215043204,8867,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / outside_month_split / 23,base_fraction,0,0,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 0,base_fraction,0.0469820722247906,141763,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 1,base_fraction,0.030374645595441,91652,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 2,base_fraction,0.0202569443408779,61123,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 3,base_fraction,0.0166186946644196,50145,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 4,base_fraction,0.0189306303305677,57121,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 5,base_fraction,0.0406318716371957,122602,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 6,base_fraction,0.0448911888936943,135454,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 7,base_fraction,0.0303249336760141,91502,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 8,base_fraction,0.0382370827720029,115376,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 9,base_fraction,0.0354946418836177,107101,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 10,base_fraction,0.0342704030145307,103407,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 11,base_fraction,0.0371709278066935,112159,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 12,base_fraction,0.0431946867900516,130335,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 13,base_fraction,0.0740306589977745,223379,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 14,base_fraction,0.0668257448088328,201639,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 15,base_fraction,0.067945257234327,205017,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 16,base_fraction,0.049117364870575,148206,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 17,base_fraction,0.0392266813813948,118362,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 18,base_fraction,0.0383534086634619,115727,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 19,base_fraction,0.0436745725189195,131783,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 20,base_fraction,0.0382069242075505,115285,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 21,base_fraction,0.0294099029457626,88741,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 22,base_fraction,0.040872477327222,123328,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,frozen_tariff / validation / 23,base_fraction,0.0749582834142809,226178,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 0,base_fraction,0.07035642185423691,44051,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 1,base_fraction,0.0428437723602167,26825,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 2,base_fraction,0.0290746703465194,18204,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 3,base_fraction,0.0237513416130021,14871,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 4,base_fraction,0.0289676607380149,18137,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 5,base_fraction,0.0435688822447102,27279,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 6,base_fraction,0.0340945389962179,21347,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 7,base_fraction,0.0131845420627619,8255,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 8,base_fraction,0.0085032709802719,5324,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 9,base_fraction,0.0069747904528263,4367,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 10,base_fraction,0.0074012317285086,4634,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 11,base_fraction,0.0089664468976796,5614,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 12,base_fraction,0.011200871409588,7013,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 13,base_fraction,0.0135758458550546,8500,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 14,base_fraction,0.0200251712153736,12538,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 15,base_fraction,0.0249124757231932,15598,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 16,base_fraction,0.0374134340181948,23425,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 17,base_fraction,0.0574210364918736,35952,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 18,base_fraction,0.0742918199938669,46515,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 19,base_fraction,0.0843682919349892,52824,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 20,base_fraction,0.0811037002964325,50780,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 21,base_fraction,0.07103042267198199,44473,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 22,base_fraction,0.0861874552795665,53963,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / formation / 23,base_fraction,0.1207819048349177,75623,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 0,base_fraction,0.0517103478261458,76354,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 1,base_fraction,0.0354056797810603,52279,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 2,base_fraction,0.0233561406799943,34487,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 3,base_fraction,0.0104634318295564,15450,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 4,base_fraction,0.0050441191111026,7448,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 5,base_fraction,0.0027360689055927,4040,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 6,base_fraction,0.0012996327301565,1919,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 7,base_fraction,0.0037648037243044,5559,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 8,base_fraction,0.0072600640267213,10720,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 9,base_fraction,0.0058920295739249,8700,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 10,base_fraction,0.0075966546816915,11217,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 11,base_fraction,0.0267213699849177,39456,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 12,base_fraction,0.0560914442989873,82823,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 13,base_fraction,0.082350256100113,121596,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 14,base_fraction,0.0841530817007783,124258,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 15,base_fraction,0.09576173445096781,141399,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 16,base_fraction,0.08672119390127531,128050,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 17,base_fraction,0.0592772037375784,87527,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 18,base_fraction,0.0542053175905527,80038,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 19,base_fraction,0.0602436320366579,88954,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 20,base_fraction,0.0553952366665741,81795,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 21,base_fraction,0.0472608496306645,69784,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 22,base_fraction,0.0572827178645659,84582,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-01,natural_calendar / validation / 23,base_fraction,0.08000698916611521,118136,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 0,base_fraction,0.0459821296979784,146636,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 1,base_fraction,0.0309566262294691,98720,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 2,base_fraction,0.0205235031411317,65449,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 3,base_fraction,0.0167605420921687,53449,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 4,base_fraction,0.0200035873562,63791,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 5,base_fraction,0.0412605543217921,131579,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 6,base_fraction,0.0424640746972854,135417,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 7,base_fraction,0.0304442363666353,97086,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 8,base_fraction,0.0397080193090074,126628,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 9,base_fraction,0.0361717766632444,115351,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 10,base_fraction,0.0337716346741808,107697,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 11,base_fraction,0.0366205097683333,116782,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 12,base_fraction,0.0425540721823731,135704,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 13,base_fraction,0.06932440424487089,221074,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 14,base_fraction,0.06384992307880449,203616,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 15,base_fraction,0.0681911258089582,217460,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 16,base_fraction,0.0521966598703409,166454,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 17,base_fraction,0.0393078911174677,125352,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 18,base_fraction,0.0394361453732198,125761,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 19,base_fraction,0.0453280016356337,144550,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 20,base_fraction,0.0394969799101781,125955,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 21,base_fraction,0.0307810213805175,98160,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 22,base_fraction,0.0421122378392074,134295,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / formation / 23,base_fraction,0.0727543432410007,232012,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 0,base_fraction,0.0472099414580497,151270,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 1,base_fraction,0.0304004309346675,97409,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 2,base_fraction,0.0203224020488122,65117,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 3,base_fraction,0.0166731269415935,53424,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 4,base_fraction,0.0191011916242379,61204,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 5,base_fraction,0.0410252425099822,131453,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 6,base_fraction,0.045119558778827,144572,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 7,base_fraction,0.0305689598458022,97949,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 8,base_fraction,0.0385912481063904,123654,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 9,base_fraction,0.0356204579117769,114135,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 10,base_fraction,0.0343421349117626,110039,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 11,base_fraction,0.0373410132582318,119648,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 12,base_fraction,0.0433521898459458,138909,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 13,base_fraction,0.0742129543804721,237793,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 14,base_fraction,0.0670885507075405,214965,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 15,base_fraction,0.0683200601211286,218911,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 16,base_fraction,0.0493053175864912,157984,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 17,base_fraction,0.0392884584535662,125888,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 18,base_fraction,0.0384554887057541,123219,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 19,base_fraction,0.0439298695024464,140760,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 20,base_fraction,0.0384195982894939,123104,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 21,base_fraction,0.0295721425454981,94755,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 22,base_fraction,0.0411516391933332,131858,Hour share of corresponding half-month base-valid starts
+C_start_hour,2025-07,natural_calendar / validation / 23,base_fraction,0.070588022338195,226178,Hour share of corresponding half-month base-valid starts
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=1,E_median_change,4.420251144066079e-05,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=1,T_median_change,0.0001111972753129,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=1,E_within003,158,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=4,E_median_change,2.987629336198561e-05,48,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=4,T_median_change,5.461885157642676e-05,48,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / base / n>=4,E_within003,37,48,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=1,E_median_change,1.32158910161051e-05,112,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=1,T_median_change,9.22839017469812e-05,112,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=1,E_within003,90,112,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=4,E_median_change,1.403805056843233e-05,21,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=4,T_median_change,6.803646754605097e-05,21,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 07_10 / contained / n>=4,E_within003,17,21,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=1,E_median_change,0,381,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=1,T_median_change,3.067807784895571e-05,381,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=1,E_within003,288,381,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=4,E_median_change,0,62,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=4,T_median_change,2.23190508691351e-05,62,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / base / n>=4,E_within003,50,62,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=1,E_median_change,1.027441550666142e-05,102,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=1,T_median_change,4.175426071717503e-05,102,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=1,E_within003,81,102,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=4,E_median_change,5.8393130842882e-06,20,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=4,T_median_change,-2.888933299050045e-05,20,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 07_10 / contained / n>=4,E_within003,16,20,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=1,E_median_change,7.476572504883094e-06,285,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=1,T_median_change,6.262520516209236e-05,285,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=1,E_within003,216,285,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=4,E_median_change,-3.637457543392841e-06,27,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=4,T_median_change,8.501955449702336e-05,27,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / base / n>=4,E_within003,22,27,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=1,E_median_change,-5.322369917237779e-06,83,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=1,T_median_change,-5.843029790808529e-05,83,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=1,E_within003,61,83,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=4,E_median_change,-5.322369917237779e-06,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=4,T_median_change,-7.186746246201636e-05,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 07_10 / contained / n>=4,E_within003,8,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=1,E_median_change,0,197,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=1,T_median_change,0,197,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=1,E_within003,135,197,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=4,E_median_change,-2.389560110233058e-05,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=4,T_median_change,-5.059789680594839e-05,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / base / n>=4,E_within003,24,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=1,E_median_change,-2.869773886482463e-05,79,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=1,T_median_change,-2.021693760489995e-05,79,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=1,E_within003,60,79,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=4,E_median_change,-4.920361381022254e-05,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=4,T_median_change,-0.0001199364569299,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 07_10 / contained / n>=4,E_within003,11,11,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=1,E_median_change,-1.259855334567739e-05,205,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=1,T_median_change,-2.961777629284512e-05,205,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=1,E_within003,185,205,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=4,E_median_change,-9.082329523346644e-06,68,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=4,T_median_change,0,68,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / base / n>=4,E_within003,67,68,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=1,E_median_change,0,120,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=1,T_median_change,8.262026396477218e-06,120,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=1,E_within003,120,120,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=4,E_median_change,-4.078112453953509e-06,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=4,T_median_change,1.763668430276866e-05,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 10_13 / contained / n>=4,E_within003,41,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=1,E_median_change,0,423,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=1,T_median_change,2.238747732974389e-06,423,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=1,E_within003,315,423,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=4,E_median_change,5.878715711782334e-06,89,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=4,T_median_change,1.297055666116265e-05,89,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / base / n>=4,E_within003,87,89,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=1,E_median_change,0,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=1,T_median_change,2.238747732974389e-06,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=1,E_within003,127,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=4,E_median_change,-2.860666248438726e-06,40,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=4,T_median_change,-8.045086345997987e-07,40,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 10_13 / contained / n>=4,E_within003,40,40,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=1,E_median_change,0.06975515184915471,1233,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=1,T_median_change,0.0663927285811749,1233,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=1,E_within003,469,1233,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=4,E_median_change,6.854009595613775e-05,153,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=4,T_median_change,0.0001311991603247,153,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / base / n>=4,E_within003,90,153,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=1,E_median_change,0,160,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=1,T_median_change,6.439018704007538e-06,160,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=1,E_within003,157,160,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=4,E_median_change,3.593497785758792e-05,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=4,T_median_change,2.996703626001462e-05,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 10_13 / contained / n>=4,E_within003,40,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=1,E_median_change,-5.230125523003615e-05,491,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=1,T_median_change,-8.768299061057139e-05,491,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=1,E_within003,314,491,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=4,E_median_change,0,74,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=4,T_median_change,0,74,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / base / n>=4,E_within003,70,74,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=1,E_median_change,-1.412492471430937e-06,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=1,T_median_change,3.3633584441084e-05,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=1,E_within003,127,127,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=4,E_median_change,0,47,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=4,T_median_change,3.019273775173303e-05,47,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 10_13 / contained / n>=4,E_within003,47,47,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=1,E_median_change,-3.647583170407476e-05,567,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=1,T_median_change,-9.578544061306092e-05,567,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=1,E_within003,404,567,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=4,E_median_change,-1.373136089166671e-05,103,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=4,T_median_change,-1.173310459723353e-05,103,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / base / n>=4,E_within003,96,103,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=1,E_median_change,0,206,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=1,T_median_change,0,206,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=1,E_within003,204,206,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=4,E_median_change,-9.558485708327512e-06,76,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=4,T_median_change,2.632675471403445e-06,76,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 13_17 / contained / n>=4,E_within003,76,76,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=1,E_median_change,-3.460120942144762e-05,2257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=1,T_median_change,-5.757950487439434e-05,2257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=1,E_within003,1827,2257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=4,E_median_change,-3.11987260258606e-05,1025,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=4,T_median_change,-5.568555914292617e-05,1025,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / base / n>=4,E_within003,967,1025,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=1,E_median_change,-4.381168685618775e-06,1759,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=1,T_median_change,0,1759,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=1,E_within003,1712,1759,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=4,E_median_change,0,784,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=4,T_median_change,-8.169679505121152e-08,784,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 13_17 / contained / n>=4,E_within003,779,784,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=1,E_median_change,0,2785,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=1,T_median_change,3.097156562104075e-06,2785,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=1,E_within003,2403,2785,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=4,E_median_change,-6.831502491477792e-08,1600,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=4,T_median_change,1.616283445249334e-06,1600,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / base / n>=4,E_within003,1540,1600,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=1,E_median_change,0,2365,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=1,T_median_change,8.055394838946128e-06,2365,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=1,E_within003,2299,2365,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=4,E_median_change,0,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=4,T_median_change,6.835129501947534e-06,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 13_17 / contained / n>=4,E_within003,1368,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=1,E_median_change,1.67886055413291e-06,2569,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=1,T_median_change,1.572476011202362e-05,2569,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=1,E_within003,2119,2569,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=4,E_median_change,1.096377243436919e-06,1269,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=4,T_median_change,1.035050576325691e-05,1269,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / base / n>=4,E_within003,1206,1269,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=1,E_median_change,0,2100,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=1,T_median_change,2.633764177528697e-06,2100,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=1,E_within003,2036,2100,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=4,E_median_change,0,1059,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=4,T_median_change,3.707986014567233e-06,1059,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 13_17 / contained / n>=4,E_within003,1044,1059,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=1,E_median_change,-5.740315806590512e-05,663,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=1,T_median_change,-0.000108263501364,663,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=1,E_within003,465,663,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=4,E_median_change,-9.08606418632274e-05,38,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=4,T_median_change,-0.0001229286476696,38,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / base / n>=4,E_within003,28,38,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=1,E_median_change,1.197589848977998e-05,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=1,T_median_change,-1.585504502443769e-05,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=1,E_within003,36,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=4,E_median_change,-0.0001520357155248,1,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=4,T_median_change,-0.000162590299515,1,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 17_18 / contained / n>=4,E_within003,1,1,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=1,E_median_change,0,1141,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=1,T_median_change,-3.817368126934895e-06,1141,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=1,E_within003,891,1141,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=4,E_median_change,-1.201720864296707e-05,207,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=4,T_median_change,-3.800089304806242e-05,207,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / base / n>=4,E_within003,168,207,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=1,E_median_change,2.600666766938708e-05,429,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=1,T_median_change,-1.803040098002917e-05,429,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=1,E_within003,421,429,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=4,E_median_change,0,33,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=4,T_median_change,-9.141182969707452e-05,33,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 17_18 / contained / n>=4,E_within003,33,33,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=1,E_median_change,0,1400,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=1,T_median_change,-7.647092746032591e-06,1400,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=1,E_within003,1048,1400,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=4,E_median_change,2.948618194709152e-05,295,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=4,T_median_change,-7.672653894008619e-06,295,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / base / n>=4,E_within003,221,295,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=1,E_median_change,0,592,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=1,T_median_change,-3.527794275792751e-05,592,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=1,E_within003,578,592,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=4,E_median_change,3.963769240444837e-05,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=4,T_median_change,0,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 17_18 / contained / n>=4,E_within003,41,41,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=1,E_median_change,0,1143,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=1,T_median_change,7.781719185029345e-06,1143,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=1,E_within003,811,1143,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=4,E_median_change,0,155,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=4,T_median_change,-1.970207139989633e-05,155,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / base / n>=4,E_within003,110,155,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=1,E_median_change,0,430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=1,T_median_change,6.200691472102449e-05,430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=1,E_within003,417,430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=4,E_median_change,9.222132923036863e-06,12,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=4,T_median_change,8.396483347605788e-05,12,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 17_18 / contained / n>=4,E_within003,12,12,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=1,E_median_change,0,1918,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=1,T_median_change,6.766326159368674e-07,1918,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=1,E_within003,1676,1918,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=4,E_median_change,4.295899397988023e-06,825,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=4,T_median_change,1.26757093510399e-06,825,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / base / n>=4,E_within003,794,825,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=1,E_median_change,0,1438,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=1,T_median_change,-2.617905176860447e-06,1438,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=1,E_within003,1409,1438,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=4,E_median_change,-3.800065039472056e-06,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=4,T_median_change,3.106285944021181e-07,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 18_21 / contained / n>=4,E_within003,612,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=1,E_median_change,0,1891,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=1,T_median_change,8.766393155168473e-06,1891,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=1,E_within003,1668,1891,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=4,E_median_change,-4.051363083901194e-06,801,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=4,T_median_change,0,801,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / base / n>=4,E_within003,775,801,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=1,E_median_change,0,1466,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=1,T_median_change,1.269074751053534e-05,1466,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=1,E_within003,1440,1466,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=4,E_median_change,-1.980780990340492e-07,594,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=4,T_median_change,6.89514102802935e-06,594,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 18_21 / contained / n>=4,E_within003,594,594,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=1,E_median_change,0,2214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=1,T_median_change,-8.852442792472992e-06,2214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=1,E_within003,1961,2214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=4,E_median_change,1.223078308798531e-06,1058,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=4,T_median_change,1.972337432043503e-06,1058,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / base / n>=4,E_within003,1018,1058,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=1,E_median_change,0,1754,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=1,T_median_change,-1.202951125545138e-05,1754,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=1,E_within003,1725,1754,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=4,E_median_change,0,821,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=4,T_median_change,-5.945699184994879e-06,821,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 18_21 / contained / n>=4,E_within003,819,821,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=1,E_median_change,0,1752,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=1,T_median_change,-7.108249379439435e-06,1752,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=1,E_within003,1521,1752,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=4,E_median_change,7.148576002924401e-06,523,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=4,T_median_change,7.275639338111262e-06,523,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / base / n>=4,E_within003,504,523,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=1,E_median_change,3.901652128934785e-06,1357,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=1,T_median_change,-6.082612127977782e-06,1357,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=1,E_within003,1342,1357,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=4,E_median_change,8.848928000126932e-06,375,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=4,T_median_change,-1.46144870205589e-06,375,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 18_21 / contained / n>=4,E_within003,372,375,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=1,E_median_change,0,864,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=1,T_median_change,4.253783957552937e-05,864,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=1,E_within003,348,864,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=4,E_median_change,0.0001198302293251,172,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=4,T_median_change,-2.414882160572951e-06,172,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / base / n>=4,E_within003,72,172,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=1,E_median_change,9.888179685113574e-06,332,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=1,T_median_change,5.316731568005828e-05,332,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=1,E_within003,322,332,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=4,E_median_change,1.558118430189381e-05,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=4,T_median_change,4.521639907650865e-05,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 21_22 / contained / n>=4,E_within003,30,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=1,E_median_change,3.971875282560156e-07,866,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=1,T_median_change,5.126359135831926e-05,866,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=1,E_within003,381,866,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=4,E_median_change,-9.438417913321118e-05,174,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=4,T_median_change,-0.000151345090572,174,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / base / n>=4,E_within003,88,174,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=1,E_median_change,1.431479888969189e-05,345,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=1,T_median_change,-3.578699721007439e-07,345,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=1,E_within003,341,345,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=4,E_median_change,4.503126804000779e-06,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=4,T_median_change,-6.125645220511622e-06,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 21_22 / contained / n>=4,E_within003,30,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=1,E_median_change,-6.781944149869545e-05,1118,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=1,T_median_change,-0.0001313910663974,1118,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=1,E_within003,445,1118,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=4,E_median_change,-0.0065430569428023,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=4,T_median_change,-0.0047153536990408,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / base / n>=4,E_within003,100,240,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=1,E_median_change,0,475,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=1,T_median_change,-2.368321333801049e-05,475,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=1,E_within003,465,475,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=4,E_median_change,3.623439590588751e-05,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=4,T_median_change,5.958277045603477e-05,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 21_22 / contained / n>=4,E_within003,36,36,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=1,E_median_change,1.253126570766039e-05,763,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=1,T_median_change,0,763,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=1,E_within003,259,763,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=4,E_median_change,0,90,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=4,T_median_change,0,90,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / base / n>=4,E_within003,32,90,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=1,E_median_change,0,257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=1,T_median_change,4.154549231394356e-05,257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=1,E_within003,251,257,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=4,E_median_change,0.0001231811887479,9,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=4,T_median_change,1.786336878706329e-05,9,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 21_22 / contained / n>=4,E_within003,9,9,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=1,E_median_change,1.58774607844081e-05,930,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=1,T_median_change,-4.403481262515996e-06,930,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=1,E_within003,377,930,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=4,E_median_change,0.0039976704906085,212,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=4,T_median_change,0.0036120030888298,212,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / base / n>=4,E_within003,77,212,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=1,E_median_change,1.959751731828163e-05,312,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=1,T_median_change,-1.424270709149411e-05,312,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=1,E_within003,306,312,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=4,E_median_change,0,29,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=4,T_median_change,-1.608934492081104e-06,29,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 22_23 / contained / n>=4,E_within003,29,29,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=1,E_median_change,4.588021694407196e-05,894,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=1,T_median_change,0.0001151940635935,894,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=1,E_within003,375,894,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=4,E_median_change,3.09826848726158e-05,214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=4,T_median_change,-0.0001850773627661,214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / base / n>=4,E_within003,92,214,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=1,E_median_change,-2.728036577515081e-05,299,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=1,T_median_change,-8.414522032795801e-05,299,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=1,E_within003,295,299,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=4,E_median_change,-5.065196447828768e-07,26,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=4,T_median_change,5.682275389129465e-05,26,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 22_23 / contained / n>=4,E_within003,26,26,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=1,E_median_change,0,1198,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=1,T_median_change,1.529555992529907e-06,1198,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=1,E_within003,416,1198,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=4,E_median_change,0.009311432747478201,366,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=4,T_median_change,0.0084400326508894,366,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / base / n>=4,E_within003,113,366,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=1,E_median_change,0,447,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=1,T_median_change,2.190922350875368e-06,447,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=1,E_within003,443,447,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=4,E_median_change,1.309577004354745e-05,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=4,T_median_change,6.045237531893122e-06,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 22_23 / contained / n>=4,E_within003,30,30,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=1,E_median_change,-7.408102877037859e-05,857,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=1,T_median_change,1.893939393893262e-05,857,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=1,E_within003,289,857,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=4,E_median_change,0.0164219167859179,125,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=4,T_median_change,0.0104083285946099,125,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / base / n>=4,E_within003,38,125,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=1,E_median_change,-4.784420231984665e-05,218,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=1,T_median_change,-1.866474019207587e-05,218,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=1,E_within003,209,218,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=4,E_median_change,2.680819150768787e-05,6,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=4,T_median_change,-1.866474019207587e-05,6,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 22_23 / contained / n>=4,E_within003,6,6,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=1,E_median_change,-1.857814784278489e-05,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=1,T_median_change,-2.450443338797292e-05,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=1,E_within003,1314,1383,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=4,E_median_change,-1.62091396381514e-05,630,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=4,T_median_change,-1.555607065395481e-05,630,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / base / n>=4,E_within003,628,630,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=1,E_median_change,0,1324,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=1,T_median_change,1.024625125523038e-06,1324,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=1,E_within003,1310,1324,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=4,E_median_change,-1.169195971817416e-06,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=4,T_median_change,4.336399230642218e-06,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-14 / 23_07 / contained / n>=4,E_within003,613,614,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=1,E_median_change,-5.008261888539423e-06,1452,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=1,T_median_change,-5.533561754034189e-06,1452,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=1,E_within003,1424,1452,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=4,E_median_change,-4.402774733458514e-06,667,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=4,T_median_change,-1.934366865130599e-06,667,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / base / n>=4,E_within003,666,667,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=1,E_median_change,-5.142269134672528e-06,1430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=1,T_median_change,-6.425530314602135e-06,1430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=1,E_within003,1411,1430,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=4,E_median_change,-4.502423708530046e-06,665,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=4,T_median_change,-3.215366064956982e-06,665,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-16 / 23_07 / contained / n>=4,E_within003,664,665,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=1,E_median_change,4.780812073501561e-06,1458,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=1,T_median_change,0,1458,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=1,E_within003,1424,1458,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=4,E_median_change,6.51431137382863e-06,664,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=4,T_median_change,0,664,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / base / n>=4,E_within003,664,664,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=1,E_median_change,4.780812073501561e-06,1428,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=1,T_median_change,0,1428,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=1,E_within003,1410,1428,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=4,E_median_change,6.122456119472819e-06,659,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=4,T_median_change,0,659,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-17 / 23_07 / contained / n>=4,E_within003,659,659,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=1,E_median_change,1.99938416989287e-07,1627,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=1,T_median_change,4.463001102128494e-06,1627,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=1,E_within003,1602,1627,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=4,E_median_change,7.782141963064149e-07,791,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=4,T_median_change,4.463001102128494e-06,791,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / base / n>=4,E_within003,790,791,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=1,E_median_change,4.004819305347684e-07,1612,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=1,T_median_change,4.490775885990228e-06,1612,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=1,E_within003,1594,1612,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=4,E_median_change,6.847701936041339e-07,790,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=4,T_median_change,4.298154202775351e-06,790,Same station on date_after and preceding day; chronological price difference
+D_matched_station_prices,2025-01,2025-01-27 / 23_07 / contained / n>=4,E_within003,789,790,Same station on date_after and preceding day; chronological price difference

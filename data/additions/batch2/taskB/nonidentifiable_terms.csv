@@ -1,0 +1,3 @@
+﻿scope,outcome,term,reason
+ALL,large_D30_H,January:C(power_class)[T.low_lt30],Structural zero or exact linear dependence; coefficient not separately identifiable
+ALL,rho_outside,January:C(power_class)[T.low_lt30],Structural zero or exact linear dependence; coefficient not separately identifiable

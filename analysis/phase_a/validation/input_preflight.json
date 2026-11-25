@@ -1,0 +1,9 @@
+{
+  "status": "captured preflight summary for the derived-input rerun only",
+  "all_passed": true,
+  "source_preflight_sha256": "92484358abcb9805f9b279db03876113664656659b2c45fd10ee568a1c3bb0da",
+  "captured_raw_input_check_count": 3,
+  "captured_prior_artifact_check_count": 478,
+  "raw_reconstruction_rerun": false,
+  "note": "The full saved preflight is excluded because it contains local paths and unrelated historical package references. This summary is a saved gate, not a new raw-input validation."
+}

@@ -1,0 +1,7 @@
+﻿month,feature,reference,n_stations,q25,q50,q75
+2025-01,piles_num,unique R stations,841,5,8,14
+2025-01,station_total_power_kw,unique R stations,841,600,1080,1800
+2025-01,base_transactions,unique R stations,841,831,1229,2001
+2025-07,piles_num,unique R stations,2133,4,7,12
+2025-07,station_total_power_kw,unique R stations,2133,480,720,1440
+2025-07,base_transactions,unique R stations,2133,641,1380,3530

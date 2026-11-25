@@ -1,0 +1,11 @@
+stage,n,independent_failures
+raw_station,2266,
+valid_start_station,2266,0.0
+start_in_month,2266,0.0
+duration_positive,2266,0.0
+energy_positive,2266,0.0
+fees_nonnegative,2266,0.0
+fee_additive,2266,0.0
+finite_prices,2266,0.0
+fully_contained,1643,
+tariff_date_window,1619,

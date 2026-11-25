@@ -1,0 +1,40 @@
+﻿group,layer_order,entry_n,observable_n,eval_n,missing_target_n,availability,denominator,error_denominator,month
+all_local,1,234,78,78,156,0.3333333333333333,group formation entry,group intersection V,2025-01
+all_local,2,126,117,117,9,0.9285714285714286,group formation entry,group intersection V,2025-01
+all_local,3,137,136,136,1,0.9927007299270072,group formation entry,group intersection V,2025-01
+all_local,4,206,176,176,30,0.8543689320388349,group formation entry,group intersection V,2025-01
+all_local,5,277,200,200,77,0.7220216606498195,group formation entry,group intersection V,2025-01
+all_local,6,360,253,253,107,0.7027777777777777,group formation entry,group intersection V,2025-01
+all_local,7,2251,2057,2057,194,0.9138160817414482,group formation entry,group intersection V,2025-07
+all_local,8,1133,969,969,164,0.8552515445719329,group formation entry,group intersection V,2025-07
+all_local,11,1081,931,931,150,0.8612395929694727,group formation entry,group intersection V,2025-07
+all_local,12,1078,929,929,149,0.8617810760667903,group formation entry,group intersection V,2025-07
+complete,1,14,13,13,1,0.9285714285714286,group formation entry,group intersection V,2025-01
+complete,2,14,13,13,1,0.9285714285714286,group formation entry,group intersection V,2025-01
+complete,3,14,14,14,0,1,group formation entry,group intersection V,2025-01
+complete,4,14,12,12,2,0.8571428571428571,group formation entry,group intersection V,2025-01
+complete,5,14,8,8,6,0.5714285714285714,group formation entry,group intersection V,2025-01
+complete,6,14,10,10,4,0.7142857142857143,group formation entry,group intersection V,2025-01
+complete,7,860,856,856,4,0.9953488372093025,group formation entry,group intersection V,2025-07
+complete,8,860,789,789,71,0.9174418604651164,group formation entry,group intersection V,2025-07
+complete,11,860,795,795,65,0.9244186046511628,group formation entry,group intersection V,2025-07
+complete,12,860,795,795,65,0.9244186046511628,group formation entry,group intersection V,2025-07
+additional_local,1,220,65,65,155,0.2954545454545454,group formation entry,group intersection V,2025-01
+additional_local,2,112,104,104,8,0.9285714285714286,group formation entry,group intersection V,2025-01
+additional_local,3,123,122,122,1,0.9918699186991868,group formation entry,group intersection V,2025-01
+additional_local,4,192,164,164,28,0.8541666666666666,group formation entry,group intersection V,2025-01
+additional_local,5,263,192,192,71,0.7300380228136882,group formation entry,group intersection V,2025-01
+additional_local,6,346,243,243,103,0.7023121387283237,group formation entry,group intersection V,2025-01
+additional_local,7,1391,1201,1201,190,0.8634076204169661,group formation entry,group intersection V,2025-07
+additional_local,8,273,180,180,93,0.6593406593406593,group formation entry,group intersection V,2025-07
+additional_local,11,221,136,136,85,0.6153846153846154,group formation entry,group intersection V,2025-07
+additional_local,12,218,134,134,84,0.6146788990825687,group formation entry,group intersection V,2025-07
+all_local,equal_layers,5543,4886,4886,657,0.8814721270070359,summed group formation entry,,2025-07
+complete,equal_layers,3440,3235,3235,205,0.9404069767441861,summed group formation entry,,2025-07
+additional_local,equal_layers,2103,1651,1651,452,0.7850689491203043,summed group formation entry,,2025-07
+all_local,equal_layers,1340,960,960,380,0.7164179104477612,summed group formation entry,,2025-01
+complete,equal_layers,84,70,70,14,0.8333333333333334,summed group formation entry,,2025-01
+additional_local,equal_layers,1256,890,890,366,0.7085987261146497,summed group formation entry,,2025-01
+all_local,equal_layers,6883,5846,5846,1037,0.8493389510387912,summed group formation entry,,ALL
+complete,equal_layers,3524,3305,3305,219,0.9378547105561862,summed group formation entry,,ALL
+additional_local,equal_layers,3359,2541,2541,818,0.7564751414111343,summed group formation entry,,ALL

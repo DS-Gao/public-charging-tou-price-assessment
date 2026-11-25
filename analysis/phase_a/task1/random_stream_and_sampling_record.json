@@ -1,0 +1,70 @@
+[
+  {
+    "frame": "formation_2342",
+    "N": 2342,
+    "B": 2000,
+    "seed": 20260920,
+    "initial_rng_state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 32846866749600724558039298098103363561,
+        "inc": 148068292083151396974427939041375423189
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "final_rng_state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 195723592556611497952635960124542300128,
+        "inc": 148068292083151396974427939041375423189
+      },
+      "has_uint32": 1,
+      "uinteger": 4208202571
+    },
+    "multiplier_sha256": "3d168ad47ccd17ad75e0fc681aaebf1233c65133f9478ce3076b4f68d485ac6f",
+    "valid_overall": 2000,
+    "invalid_overall": 0,
+    "invalid_reason": "any zero V-layer multiplier denominator",
+    "sample_order": "lexicographically sorted station strings",
+    "multiplier_dtype": "int16",
+    "multiplier_shape": [
+      2000,
+      2342
+    ]
+  },
+  {
+    "frame": "evaluation_2147",
+    "N": 2147,
+    "B": 2000,
+    "seed": 2026111601,
+    "initial_rng_state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 211207459569557043254007083203265596814,
+        "inc": 141787399029701367766051170145605724797
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "final_rng_state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 43216930010008863855062188601695353846,
+        "inc": 141787399029701367766051170145605724797
+      },
+      "has_uint32": 0,
+      "uinteger": 799014760
+    },
+    "multiplier_sha256": "5736cd17c728cc41dcd0a503504261ba59a1371e15a1e3888077b0278c6cbd03",
+    "valid_overall": 2000,
+    "invalid_overall": 0,
+    "invalid_reason": "any zero V-layer multiplier denominator",
+    "sample_order": "lexicographically sorted station strings",
+    "multiplier_dtype": "int16",
+    "multiplier_shape": [
+      2000,
+      2147
+    ]
+  }
+]

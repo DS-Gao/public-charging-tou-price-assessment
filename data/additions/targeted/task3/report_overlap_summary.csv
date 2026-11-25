@@ -1,0 +1,4 @@
+﻿amount_median,n_units,n_unique_stations,identical_observed_sets,disjoint_observed_sets,identical_sets_fraction
+Amplification,1549,784,1128,0,0.7282117495158167
+Attenuation,1157,556,875,0,0.7562662057044079
+Within reference range,4773,1792,2994,0,0.6272784412319296

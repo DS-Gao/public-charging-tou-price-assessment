@@ -1,0 +1,9 @@
+﻿level,eligibility,bin,count,denominator
+station,all_complete_days_including_months_below10,0,151,205
+station,all_complete_days_including_months_below10,no_complete_days,52,205
+station,all_complete_days_including_months_below10,"(0,50%]",2,205
+station_month,all_complete_days_including_months_below10,0,752,1230
+station_month,all_complete_days_including_months_below10,no_complete_days,474,1230
+station_month,all_complete_days_including_months_below10,"(0,50%]",4,1230
+station_month,at_least10_complete_days,0,709,713
+station_month,at_least10_complete_days,"(0,50%]",4,713

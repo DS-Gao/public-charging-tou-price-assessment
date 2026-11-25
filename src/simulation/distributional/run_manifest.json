@@ -1,0 +1,64 @@
+{
+  "record_type": "historical_execution_record",
+  "scope": "V2 24-scenario known-truth distributional simulation and scenario 16 adaptive diagnostic",
+  "historical_run_status": "formal simulation complete; adaptive diagnostic is post-result",
+  "historical_runtime": {
+    "python": "3.12.14",
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "pyarrow": "25.0.0",
+    "matplotlib": "3.10.6"
+  },
+  "historical_runtime_notice": "These versions document the historical execution environment only. They are not an install specification; use the package requirements-lock.txt for this release.",
+  "formal_simulation": {
+    "phase": "formal",
+    "scenario_count": 24,
+    "outer_replicates_per_scenario": 2000,
+    "inner_replicates": 1999,
+    "seed_namespace": 9132602,
+    "outer_datasets": 48000,
+    "metric_method_rows": 480000,
+    "resampling": "iid station types, one layer, all observations supported",
+    "design_sha256": "e9f1bc2b5712f8b6192fe58e1835ef644a3a7f474fe2f5d0a978260f5b3935e9"
+  },
+  "adaptive_scenario16_diagnostic": {
+    "scenario_id": 16,
+    "outer_datasets": 2000,
+    "formal_inner_replicates": 1999,
+    "adaptive_inner_replicates": 7999,
+    "seed_namespace": 9132602,
+    "status": "post-result diagnostic"
+  },
+  "frozen_public_artifacts": {
+    "scenarios": {
+      "path": "data/reference/historical/window_and_mixture_validation/v2/formal/scenarios.csv",
+      "sha256": "dc9133568cbb78554b1eba6397fddc5abf0394de2b9674f6476c516461a42f7b"
+    },
+    "performance_summary": {
+      "path": "data/reference/historical/window_and_mixture_validation/v2/formal/performance_summary.csv",
+      "sha256": "60b6392f1e1ba7735f8a98896efaa550b8485c8f168fdba558a79d52a8b3c248"
+    },
+    "population_truth": {
+      "path": "data/reference/historical/window_and_mixture_validation/v2/formal/population_truth.csv",
+      "sha256": "ed569031bc213735f541376e618ddd565c35c78a5179a63d692d8bae751830f3"
+    },
+    "progress": {
+      "path": "data/reference/historical/window_and_mixture_validation/v2/formal/progress.csv",
+      "sha256": "fd032318e8ee92505698395a63d0a208c7f89a65770c41b61a103d2cad245a71"
+    },
+    "adaptive_scenario16_summary": {
+      "path": "data/reference/historical/window_and_mixture_validation/v2/formal/adaptive_scenario16_summary.csv",
+      "sha256": "28bbb36122c0f698bb5145061ca62b45e0a65e61538d13fdfbf71ec5d96f6a2c"
+    }
+  },
+  "availability": {
+    "saved_formal_replicate_parquet": "included in data/reference/historical/window_and_mixture_validation/v2/formal/: outer_station_counts.parquet, scenario_01_replicates.parquet through scenario_24_replicates.parquet, and adaptive_scenario16_replicates.parquet",
+    "original_transaction_data": "not included and not required for the synthetic V2 generator"
+  },
+  "historical_source_sha256": {
+    "v2_mixture_simulation.py": "73a3b7dc8dc675ac435d1af1319abe3ec87f704410d5a11e77c55b33cfc22fa9",
+    "v2_targeted_refinement.py": "bb9c275151a85d74d3d4f7b7be62df6c0bc4ebce3b5249c62de71f0ce8eb7d0cc",
+    "verify_v2_independent.py": "793c93d05e8afc39c92c09b59670094a556bd89970e387f9c2740ade91ced8a77"
+  }
+}

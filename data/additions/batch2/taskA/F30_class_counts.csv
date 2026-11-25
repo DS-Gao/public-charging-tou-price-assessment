@@ -1,0 +1,13 @@
+﻿month,layers,classification,n
+2025-07,4,dispersion_amplification,3
+2025-07,4,dispersion_compression,0
+2025-07,4,inconclusive,1
+2025-07,4,precisely_small,0
+2025-01,6,dispersion_amplification,3
+2025-01,6,dispersion_compression,1
+2025-01,6,inconclusive,1
+2025-01,6,precisely_small,1
+ALL,10,dispersion_amplification,6
+ALL,10,dispersion_compression,1
+ALL,10,inconclusive,2
+ALL,10,precisely_small,1

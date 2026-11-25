@@ -1,0 +1,6 @@
+﻿month,boundary_hour,station_id,n_L_full,n_R_full,days_L_full,days_R_full,support_L_full,support_R_full,support_full,n_L_formation,n_R_formation,days_L_formation,days_R_formation,support_L_formation,support_R_formation,support_formation,reason
+2025-01,7,ST_000168,100,17,25,10,True,False,False,40,12,10,6,True,True,True,Formation passes 10 transactions/3 tariff dates on both sides; full-month fails 20/5 on at least one side.
+2025-01,7,ST_000800,381,12,32,5,True,False,False,245,12,15,5,True,True,True,Formation passes 10 transactions/3 tariff dates on both sides; full-month fails 20/5 on at least one side.
+2025-01,10,ST_004865,17,68,11,31,False,True,False,13,39,8,15,True,True,True,Formation passes 10 transactions/3 tariff dates on both sides; full-month fails 20/5 on at least one side.
+2025-07,7,ST_000050,55,18,29,13,True,False,False,24,10,13,7,True,True,True,Formation passes 10 transactions/3 tariff dates on both sides; full-month fails 20/5 on at least one side.
+2025-07,10,ST_000601,23,19,16,15,True,False,False,16,11,9,9,True,True,True,Formation passes 10 transactions/3 tariff dates on both sides; full-month fails 20/5 on at least one side.

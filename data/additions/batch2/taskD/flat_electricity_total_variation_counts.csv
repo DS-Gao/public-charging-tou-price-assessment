@@ -1,0 +1,15 @@
+﻿population,month,stations,station_months,stations_any_total_variation,station_months_any_total_variation,complete_days,total_varies_days
+strict_six_month_stations,ALL,749,4494,34,72,128218,246
+strict_six_month_stations,2022-09,749,749,8,8,21166,42
+strict_six_month_stations,2022-10,749,749,15,15,18305,86
+strict_six_month_stations,2022-11,749,749,16,16,21407,49
+strict_six_month_stations,2022-12,749,749,11,11,23193,19
+strict_six_month_stations,2023-01,749,749,3,3,23202,18
+strict_six_month_stations,2023-02,749,749,19,19,20945,32
+available_flat_station_months,ALL,1336,7309,58,136,202039,470
+available_flat_station_months,2022-09,1288,1288,11,11,36281,51
+available_flat_station_months,2022-10,1299,1299,28,28,31027,162
+available_flat_station_months,2022-11,1313,1313,36,36,37122,117
+available_flat_station_months,2022-12,1318,1318,30,30,40625,57
+available_flat_station_months,2023-01,1313,1313,9,9,35234,37
+available_flat_station_months,2023-02,778,778,22,22,21750,46

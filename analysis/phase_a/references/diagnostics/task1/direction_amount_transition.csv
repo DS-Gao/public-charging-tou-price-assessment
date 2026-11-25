@@ -1,0 +1,747 @@
+﻿layer,population,target_method,classification,from_median,to_target,n,denominator,fraction
+ALL,fixed_A,mean,direction,negative,negative,21,8133,0.002582073035780155
+ALL,fixed_A,mean,direction,negative,neutral,4,8133,0.0004918234353866962
+ALL,fixed_A,mean,direction,negative,positive,10,8133,0.00122955858846674
+ALL,fixed_A,mean,direction,neutral,negative,54,8133,0.006639616377720398
+ALL,fixed_A,mean,direction,neutral,neutral,437,8133,0.05373171031599656
+ALL,fixed_A,mean,direction,neutral,positive,95,8133,0.01168080659043403
+ALL,fixed_A,mean,direction,positive,negative,3,8133,0.0003688675765400221
+ALL,fixed_A,mean,direction,positive,neutral,8,8133,0.0009836468707733923
+ALL,fixed_A,mean,direction,positive,positive,7501,8133,0.922291897208902
+ALL,fixed_A,mean,amount,Amplification,Amplification,1266,8133,0.1556621172998894
+ALL,fixed_A,mean,amount,Amplification,Attenuation,12,8133,0.001475470306160089
+ALL,fixed_A,mean,amount,Amplification,Within reference range,305,8133,0.03750153694823558
+ALL,fixed_A,mean,amount,Attenuation,Amplification,4,8133,0.0004918234353866962
+ALL,fixed_A,mean,amount,Attenuation,Attenuation,1031,8133,0.126767490470921
+ALL,fixed_A,mean,amount,Attenuation,Within reference range,177,8133,0.02176318701586131
+ALL,fixed_A,mean,amount,Within reference range,Amplification,234,8133,0.02877167097012173
+ALL,fixed_A,mean,amount,Within reference range,Attenuation,232,8133,0.02852575925242838
+ALL,fixed_A,mean,amount,Within reference range,Within reference range,4872,8133,0.599040944300996
+ALL,fixed_A,mean,R,False,False,522,8133,0.06418295831796385
+ALL,fixed_A,mean,R,False,True,80,8133,0.009836468707733923
+ALL,fixed_A,mean,R,True,False,1,8133,0.000122955858846674
+ALL,fixed_A,mean,R,True,True,7530,8133,0.9258576171154556
+ALL,fixed_A,mean,H,False,False,555,8133,0.0682405016599041
+ALL,fixed_A,mean,H,False,True,99,8133,0.01217263002582073
+ALL,fixed_A,mean,H,True,False,7,8133,0.0008606910119267183
+ALL,fixed_A,mean,H,True,True,7472,8133,0.9187261773023485
+ALL,fixed_H_median,mean,direction,positive,negative,3,7479,0.0004011231448054553
+ALL,fixed_H_median,mean,direction,positive,neutral,4,7479,0.0005348308597406071
+ALL,fixed_H_median,mean,direction,positive,positive,7472,7479,0.999064045995454
+ALL,fixed_H_median,mean,amount,Amplification,Amplification,1236,7479,0.1652627356598476
+ALL,fixed_H_median,mean,amount,Amplification,Attenuation,12,7479,0.001604492579221821
+ALL,fixed_H_median,mean,amount,Amplification,Within reference range,301,7479,0.04024602219548068
+ALL,fixed_H_median,mean,amount,Attenuation,Amplification,3,7479,0.0004011231448054553
+ALL,fixed_H_median,mean,amount,Attenuation,Attenuation,981,7479,0.1311672683513839
+ALL,fixed_H_median,mean,amount,Attenuation,Within reference range,173,7479,0.02313143468378125
+ALL,fixed_H_median,mean,amount,Within reference range,Amplification,192,7479,0.02567188126754914
+ALL,fixed_H_median,mean,amount,Within reference range,Attenuation,165,7479,0.02206177296430004
+ALL,fixed_H_median,mean,amount,Within reference range,Within reference range,4416,7479,0.5904532691536302
+ALL,fixed_H_median,mean,R,True,False,1,7479,0.0001337077149351518
+ALL,fixed_H_median,mean,R,True,True,7478,7479,0.9998662922850649
+ALL,fixed_H_median,mean,H,True,False,7,7479,0.0009359540045460623
+ALL,fixed_H_median,mean,H,True,True,7472,7479,0.999064045995454
+ALL,fixed_A,vwap,direction,negative,negative,19,8133,0.002336161318086807
+ALL,fixed_A,vwap,direction,negative,neutral,7,8133,0.0008606910119267183
+ALL,fixed_A,vwap,direction,negative,positive,9,8133,0.001106602729620066
+ALL,fixed_A,vwap,direction,neutral,negative,56,8133,0.006885528095413746
+ALL,fixed_A,vwap,direction,neutral,neutral,431,8133,0.05299397516291651
+ALL,fixed_A,vwap,direction,neutral,positive,99,8133,0.01217263002582073
+ALL,fixed_A,vwap,direction,positive,negative,4,8133,0.0004918234353866962
+ALL,fixed_A,vwap,direction,positive,neutral,9,8133,0.001106602729620066
+ALL,fixed_A,vwap,direction,positive,positive,7499,8133,0.9220459854912086
+ALL,fixed_A,vwap,amount,Amplification,Amplification,1274,8133,0.1566457641706627
+ALL,fixed_A,vwap,amount,Amplification,Attenuation,16,8133,0.001967293741546785
+ALL,fixed_A,vwap,amount,Amplification,Within reference range,293,8133,0.03602606664207549
+ALL,fixed_A,vwap,amount,Attenuation,Amplification,7,8133,0.0008606910119267183
+ALL,fixed_A,vwap,amount,Attenuation,Attenuation,1023,8133,0.1257838436001475
+ALL,fixed_A,vwap,amount,Attenuation,Within reference range,182,8133,0.02237796631009467
+ALL,fixed_A,vwap,amount,Within reference range,Amplification,289,8133,0.0355342432066888
+ALL,fixed_A,vwap,amount,Within reference range,Attenuation,236,8133,0.02901758268781508
+ALL,fixed_A,vwap,amount,Within reference range,Within reference range,4813,8133,0.5917865486290421
+ALL,fixed_A,vwap,R,False,False,519,8133,0.06381409074142383
+ALL,fixed_A,vwap,R,False,True,83,8133,0.01020533628427395
+ALL,fixed_A,vwap,R,True,False,3,8133,0.0003688675765400221
+ALL,fixed_A,vwap,R,True,True,7528,8133,0.9256117053977622
+ALL,fixed_A,vwap,H,False,False,550,8133,0.06762572236567073
+ALL,fixed_A,vwap,H,False,True,104,8133,0.0127874093200541
+ALL,fixed_A,vwap,H,True,False,8,8133,0.0009836468707733923
+ALL,fixed_A,vwap,H,True,True,7471,8133,0.9186032214435018
+ALL,fixed_H_median,vwap,direction,positive,negative,4,7479,0.0005348308597406071
+ALL,fixed_H_median,vwap,direction,positive,neutral,4,7479,0.0005348308597406071
+ALL,fixed_H_median,vwap,direction,positive,positive,7471,7479,0.9989303382805188
+ALL,fixed_H_median,vwap,amount,Amplification,Amplification,1245,7479,0.1664661050942639
+ALL,fixed_H_median,vwap,amount,Amplification,Attenuation,16,7479,0.002139323438962428
+ALL,fixed_H_median,vwap,amount,Amplification,Within reference range,288,7479,0.03850782190132371
+ALL,fixed_H_median,vwap,amount,Attenuation,Amplification,6,7479,0.0008022462896109105
+ALL,fixed_H_median,vwap,amount,Attenuation,Attenuation,973,7479,0.1300976066319027
+ALL,fixed_H_median,vwap,amount,Attenuation,Within reference range,178,7479,0.02379997325845701
+ALL,fixed_H_median,vwap,amount,Within reference range,Amplification,241,7479,0.03222355929937157
+ALL,fixed_H_median,vwap,amount,Within reference range,Attenuation,165,7479,0.02206177296430004
+ALL,fixed_H_median,vwap,amount,Within reference range,Within reference range,4367,7479,0.5839015911218077
+ALL,fixed_H_median,vwap,R,True,False,3,7479,0.0004011231448054553
+ALL,fixed_H_median,vwap,R,True,True,7476,7479,0.9995988768551946
+ALL,fixed_H_median,vwap,H,True,False,8,7479,0.001069661719481214
+ALL,fixed_H_median,vwap,H,True,True,7471,7479,0.9989303382805188
+2025-01_07,fixed_A,mean,direction,neutral,neutral,55,148,0.3716216216216216
+2025-01_07,fixed_A,mean,direction,neutral,positive,19,148,0.1283783783783784
+2025-01_07,fixed_A,mean,direction,positive,positive,74,148,0.5
+2025-01_07,fixed_A,mean,amount,Amplification,Amplification,16,148,0.1081081081081081
+2025-01_07,fixed_A,mean,amount,Amplification,Within reference range,3,148,0.02027027027027027
+2025-01_07,fixed_A,mean,amount,Attenuation,Attenuation,13,148,0.08783783783783784
+2025-01_07,fixed_A,mean,amount,Within reference range,Amplification,5,148,0.03378378378378379
+2025-01_07,fixed_A,mean,amount,Within reference range,Attenuation,8,148,0.05405405405405406
+2025-01_07,fixed_A,mean,amount,Within reference range,Within reference range,103,148,0.6959459459459459
+2025-01_07,fixed_A,mean,R,False,False,55,148,0.3716216216216216
+2025-01_07,fixed_A,mean,R,False,True,14,148,0.0945945945945946
+2025-01_07,fixed_A,mean,R,True,True,79,148,0.5337837837837838
+2025-01_07,fixed_A,mean,H,False,False,55,148,0.3716216216216216
+2025-01_07,fixed_A,mean,H,False,True,19,148,0.1283783783783784
+2025-01_07,fixed_A,mean,H,True,True,74,148,0.5
+2025-01_07,fixed_H_median,mean,direction,positive,positive,74,74,1
+2025-01_07,fixed_H_median,mean,amount,Amplification,Amplification,16,74,0.2162162162162162
+2025-01_07,fixed_H_median,mean,amount,Amplification,Within reference range,3,74,0.04054054054054054
+2025-01_07,fixed_H_median,mean,amount,Attenuation,Attenuation,12,74,0.1621621621621622
+2025-01_07,fixed_H_median,mean,amount,Within reference range,Amplification,4,74,0.05405405405405406
+2025-01_07,fixed_H_median,mean,amount,Within reference range,Attenuation,3,74,0.04054054054054054
+2025-01_07,fixed_H_median,mean,amount,Within reference range,Within reference range,36,74,0.4864864864864865
+2025-01_07,fixed_H_median,mean,R,True,True,74,74,1
+2025-01_07,fixed_H_median,mean,H,True,True,74,74,1
+2025-01_07,fixed_A,vwap,direction,neutral,neutral,55,148,0.3716216216216216
+2025-01_07,fixed_A,vwap,direction,neutral,positive,19,148,0.1283783783783784
+2025-01_07,fixed_A,vwap,direction,positive,positive,74,148,0.5
+2025-01_07,fixed_A,vwap,amount,Amplification,Amplification,15,148,0.1013513513513514
+2025-01_07,fixed_A,vwap,amount,Amplification,Attenuation,1,148,0.006756756756756757
+2025-01_07,fixed_A,vwap,amount,Amplification,Within reference range,3,148,0.02027027027027027
+2025-01_07,fixed_A,vwap,amount,Attenuation,Attenuation,13,148,0.08783783783783784
+2025-01_07,fixed_A,vwap,amount,Within reference range,Amplification,5,148,0.03378378378378379
+2025-01_07,fixed_A,vwap,amount,Within reference range,Attenuation,7,148,0.0472972972972973
+2025-01_07,fixed_A,vwap,amount,Within reference range,Within reference range,104,148,0.7027027027027027
+2025-01_07,fixed_A,vwap,R,False,False,55,148,0.3716216216216216
+2025-01_07,fixed_A,vwap,R,False,True,14,148,0.0945945945945946
+2025-01_07,fixed_A,vwap,R,True,True,79,148,0.5337837837837838
+2025-01_07,fixed_A,vwap,H,False,False,55,148,0.3716216216216216
+2025-01_07,fixed_A,vwap,H,False,True,19,148,0.1283783783783784
+2025-01_07,fixed_A,vwap,H,True,True,74,148,0.5
+2025-01_07,fixed_H_median,vwap,direction,positive,positive,74,74,1
+2025-01_07,fixed_H_median,vwap,amount,Amplification,Amplification,15,74,0.2027027027027027
+2025-01_07,fixed_H_median,vwap,amount,Amplification,Attenuation,1,74,0.01351351351351351
+2025-01_07,fixed_H_median,vwap,amount,Amplification,Within reference range,3,74,0.04054054054054054
+2025-01_07,fixed_H_median,vwap,amount,Attenuation,Attenuation,12,74,0.1621621621621622
+2025-01_07,fixed_H_median,vwap,amount,Within reference range,Amplification,4,74,0.05405405405405406
+2025-01_07,fixed_H_median,vwap,amount,Within reference range,Attenuation,2,74,0.02702702702702703
+2025-01_07,fixed_H_median,vwap,amount,Within reference range,Within reference range,37,74,0.5
+2025-01_07,fixed_H_median,vwap,R,True,True,74,74,1
+2025-01_07,fixed_H_median,vwap,H,True,True,74,74,1
+2025-01_10,fixed_A,mean,direction,neutral,negative,1,175,0.005714285714285714
+2025-01_10,fixed_A,mean,direction,neutral,neutral,78,175,0.4457142857142857
+2025-01_10,fixed_A,mean,direction,positive,positive,96,175,0.5485714285714286
+2025-01_10,fixed_A,mean,amount,Amplification,Amplification,23,175,0.1314285714285714
+2025-01_10,fixed_A,mean,amount,Amplification,Within reference range,3,175,0.01714285714285714
+2025-01_10,fixed_A,mean,amount,Attenuation,Attenuation,22,175,0.1257142857142857
+2025-01_10,fixed_A,mean,amount,Attenuation,Within reference range,3,175,0.01714285714285714
+2025-01_10,fixed_A,mean,amount,Within reference range,Amplification,2,175,0.01142857142857143
+2025-01_10,fixed_A,mean,amount,Within reference range,Attenuation,1,175,0.005714285714285714
+2025-01_10,fixed_A,mean,amount,Within reference range,Within reference range,121,175,0.6914285714285714
+2025-01_10,fixed_A,mean,R,False,False,78,175,0.4457142857142857
+2025-01_10,fixed_A,mean,R,False,True,1,175,0.005714285714285714
+2025-01_10,fixed_A,mean,R,True,True,96,175,0.5485714285714286
+2025-01_10,fixed_A,mean,H,False,False,79,175,0.4514285714285714
+2025-01_10,fixed_A,mean,H,True,True,96,175,0.5485714285714286
+2025-01_10,fixed_H_median,mean,direction,positive,positive,96,96,1
+2025-01_10,fixed_H_median,mean,amount,Amplification,Amplification,23,96,0.2395833333333333
+2025-01_10,fixed_H_median,mean,amount,Amplification,Within reference range,3,96,0.03125
+2025-01_10,fixed_H_median,mean,amount,Attenuation,Attenuation,22,96,0.2291666666666667
+2025-01_10,fixed_H_median,mean,amount,Attenuation,Within reference range,3,96,0.03125
+2025-01_10,fixed_H_median,mean,amount,Within reference range,Amplification,2,96,0.02083333333333333
+2025-01_10,fixed_H_median,mean,amount,Within reference range,Within reference range,43,96,0.4479166666666667
+2025-01_10,fixed_H_median,mean,R,True,True,96,96,1
+2025-01_10,fixed_H_median,mean,H,True,True,96,96,1
+2025-01_10,fixed_A,vwap,direction,neutral,negative,2,175,0.01142857142857143
+2025-01_10,fixed_A,vwap,direction,neutral,neutral,77,175,0.44
+2025-01_10,fixed_A,vwap,direction,positive,positive,96,175,0.5485714285714286
+2025-01_10,fixed_A,vwap,amount,Amplification,Amplification,24,175,0.1371428571428571
+2025-01_10,fixed_A,vwap,amount,Amplification,Within reference range,2,175,0.01142857142857143
+2025-01_10,fixed_A,vwap,amount,Attenuation,Attenuation,23,175,0.1314285714285714
+2025-01_10,fixed_A,vwap,amount,Attenuation,Within reference range,2,175,0.01142857142857143
+2025-01_10,fixed_A,vwap,amount,Within reference range,Amplification,2,175,0.01142857142857143
+2025-01_10,fixed_A,vwap,amount,Within reference range,Attenuation,3,175,0.01714285714285714
+2025-01_10,fixed_A,vwap,amount,Within reference range,Within reference range,119,175,0.68
+2025-01_10,fixed_A,vwap,R,False,False,78,175,0.4457142857142857
+2025-01_10,fixed_A,vwap,R,False,True,1,175,0.005714285714285714
+2025-01_10,fixed_A,vwap,R,True,True,96,175,0.5485714285714286
+2025-01_10,fixed_A,vwap,H,False,False,79,175,0.4514285714285714
+2025-01_10,fixed_A,vwap,H,True,True,96,175,0.5485714285714286
+2025-01_10,fixed_H_median,vwap,direction,positive,positive,96,96,1
+2025-01_10,fixed_H_median,vwap,amount,Amplification,Amplification,24,96,0.25
+2025-01_10,fixed_H_median,vwap,amount,Amplification,Within reference range,2,96,0.02083333333333333
+2025-01_10,fixed_H_median,vwap,amount,Attenuation,Attenuation,23,96,0.2395833333333333
+2025-01_10,fixed_H_median,vwap,amount,Attenuation,Within reference range,2,96,0.02083333333333333
+2025-01_10,fixed_H_median,vwap,amount,Within reference range,Amplification,2,96,0.02083333333333333
+2025-01_10,fixed_H_median,vwap,amount,Within reference range,Attenuation,2,96,0.02083333333333333
+2025-01_10,fixed_H_median,vwap,amount,Within reference range,Within reference range,41,96,0.4270833333333333
+2025-01_10,fixed_H_median,vwap,R,True,True,96,96,1
+2025-01_10,fixed_H_median,vwap,H,True,True,96,96,1
+2025-01_13,fixed_A,mean,direction,negative,negative,1,776,0.001288659793814433
+2025-01_13,fixed_A,mean,direction,negative,neutral,1,776,0.001288659793814433
+2025-01_13,fixed_A,mean,direction,negative,positive,2,776,0.002577319587628866
+2025-01_13,fixed_A,mean,direction,neutral,neutral,137,776,0.1765463917525773
+2025-01_13,fixed_A,mean,direction,neutral,positive,6,776,0.007731958762886598
+2025-01_13,fixed_A,mean,direction,positive,negative,1,776,0.001288659793814433
+2025-01_13,fixed_A,mean,direction,positive,neutral,2,776,0.002577319587628866
+2025-01_13,fixed_A,mean,direction,positive,positive,626,776,0.8067010309278351
+2025-01_13,fixed_A,mean,amount,Amplification,Amplification,50,776,0.06443298969072164
+2025-01_13,fixed_A,mean,amount,Amplification,Attenuation,3,776,0.003865979381443299
+2025-01_13,fixed_A,mean,amount,Amplification,Within reference range,20,776,0.02577319587628866
+2025-01_13,fixed_A,mean,amount,Attenuation,Attenuation,162,776,0.2087628865979382
+2025-01_13,fixed_A,mean,amount,Attenuation,Within reference range,19,776,0.02448453608247423
+2025-01_13,fixed_A,mean,amount,Within reference range,Amplification,18,776,0.02319587628865979
+2025-01_13,fixed_A,mean,amount,Within reference range,Attenuation,16,776,0.02061855670103093
+2025-01_13,fixed_A,mean,amount,Within reference range,Within reference range,488,776,0.6288659793814433
+2025-01_13,fixed_A,mean,R,False,False,140,776,0.1804123711340206
+2025-01_13,fixed_A,mean,R,False,True,2,776,0.002577319587628866
+2025-01_13,fixed_A,mean,R,True,True,634,776,0.8170103092783505
+2025-01_13,fixed_A,mean,H,False,False,142,776,0.1829896907216495
+2025-01_13,fixed_A,mean,H,False,True,7,776,0.00902061855670103
+2025-01_13,fixed_A,mean,H,True,False,2,776,0.002577319587628866
+2025-01_13,fixed_A,mean,H,True,True,625,776,0.8054123711340206
+2025-01_13,fixed_H_median,mean,direction,positive,negative,1,627,0.001594896331738437
+2025-01_13,fixed_H_median,mean,direction,positive,neutral,1,627,0.001594896331738437
+2025-01_13,fixed_H_median,mean,direction,positive,positive,625,627,0.9968102073365231
+2025-01_13,fixed_H_median,mean,amount,Amplification,Amplification,49,627,0.07814992025518341
+2025-01_13,fixed_H_median,mean,amount,Amplification,Attenuation,3,627,0.004784688995215311
+2025-01_13,fixed_H_median,mean,amount,Amplification,Within reference range,19,627,0.0303030303030303
+2025-01_13,fixed_H_median,mean,amount,Attenuation,Attenuation,154,627,0.2456140350877193
+2025-01_13,fixed_H_median,mean,amount,Attenuation,Within reference range,19,627,0.0303030303030303
+2025-01_13,fixed_H_median,mean,amount,Within reference range,Amplification,17,627,0.02711323763955343
+2025-01_13,fixed_H_median,mean,amount,Within reference range,Attenuation,16,627,0.02551834130781499
+2025-01_13,fixed_H_median,mean,amount,Within reference range,Within reference range,350,627,0.5582137161084529
+2025-01_13,fixed_H_median,mean,R,True,True,627,627,1
+2025-01_13,fixed_H_median,mean,H,True,False,2,627,0.003189792663476874
+2025-01_13,fixed_H_median,mean,H,True,True,625,627,0.9968102073365231
+2025-01_13,fixed_A,vwap,direction,negative,negative,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,direction,negative,neutral,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,direction,negative,positive,2,776,0.002577319587628866
+2025-01_13,fixed_A,vwap,direction,neutral,negative,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,direction,neutral,neutral,136,776,0.1752577319587629
+2025-01_13,fixed_A,vwap,direction,neutral,positive,6,776,0.007731958762886598
+2025-01_13,fixed_A,vwap,direction,positive,neutral,2,776,0.002577319587628866
+2025-01_13,fixed_A,vwap,direction,positive,positive,627,776,0.8079896907216495
+2025-01_13,fixed_A,vwap,amount,Amplification,Amplification,52,776,0.06701030927835051
+2025-01_13,fixed_A,vwap,amount,Amplification,Attenuation,3,776,0.003865979381443299
+2025-01_13,fixed_A,vwap,amount,Amplification,Within reference range,18,776,0.02319587628865979
+2025-01_13,fixed_A,vwap,amount,Attenuation,Amplification,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,amount,Attenuation,Attenuation,162,776,0.2087628865979382
+2025-01_13,fixed_A,vwap,amount,Attenuation,Within reference range,18,776,0.02319587628865979
+2025-01_13,fixed_A,vwap,amount,Within reference range,Amplification,18,776,0.02319587628865979
+2025-01_13,fixed_A,vwap,amount,Within reference range,Attenuation,15,776,0.0193298969072165
+2025-01_13,fixed_A,vwap,amount,Within reference range,Within reference range,489,776,0.6301546391752577
+2025-01_13,fixed_A,vwap,R,False,False,141,776,0.181701030927835
+2025-01_13,fixed_A,vwap,R,False,True,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,R,True,True,634,776,0.8170103092783505
+2025-01_13,fixed_A,vwap,H,False,False,142,776,0.1829896907216495
+2025-01_13,fixed_A,vwap,H,False,True,7,776,0.00902061855670103
+2025-01_13,fixed_A,vwap,H,True,False,1,776,0.001288659793814433
+2025-01_13,fixed_A,vwap,H,True,True,626,776,0.8067010309278351
+2025-01_13,fixed_H_median,vwap,direction,positive,neutral,1,627,0.001594896331738437
+2025-01_13,fixed_H_median,vwap,direction,positive,positive,626,627,0.9984051036682615
+2025-01_13,fixed_H_median,vwap,amount,Amplification,Amplification,51,627,0.08133971291866028
+2025-01_13,fixed_H_median,vwap,amount,Amplification,Attenuation,3,627,0.004784688995215311
+2025-01_13,fixed_H_median,vwap,amount,Amplification,Within reference range,17,627,0.02711323763955343
+2025-01_13,fixed_H_median,vwap,amount,Attenuation,Amplification,1,627,0.001594896331738437
+2025-01_13,fixed_H_median,vwap,amount,Attenuation,Attenuation,154,627,0.2456140350877193
+2025-01_13,fixed_H_median,vwap,amount,Attenuation,Within reference range,18,627,0.02870813397129187
+2025-01_13,fixed_H_median,vwap,amount,Within reference range,Amplification,17,627,0.02711323763955343
+2025-01_13,fixed_H_median,vwap,amount,Within reference range,Attenuation,15,627,0.02392344497607655
+2025-01_13,fixed_H_median,vwap,amount,Within reference range,Within reference range,351,627,0.5598086124401914
+2025-01_13,fixed_H_median,vwap,R,True,True,627,627,1
+2025-01_13,fixed_H_median,vwap,H,True,False,1,627,0.001594896331738437
+2025-01_13,fixed_H_median,vwap,H,True,True,626,627,0.9984051036682615
+2025-01_17,fixed_A,mean,direction,negative,negative,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,direction,negative,positive,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,direction,neutral,negative,6,575,0.01043478260869565
+2025-01_17,fixed_A,mean,direction,neutral,neutral,49,575,0.08521739130434783
+2025-01_17,fixed_A,mean,direction,neutral,positive,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,direction,positive,neutral,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,direction,positive,positive,516,575,0.8973913043478261
+2025-01_17,fixed_A,mean,amount,Amplification,Amplification,50,575,0.08695652173913043
+2025-01_17,fixed_A,mean,amount,Amplification,Attenuation,3,575,0.005217391304347826
+2025-01_17,fixed_A,mean,amount,Amplification,Within reference range,23,575,0.04
+2025-01_17,fixed_A,mean,amount,Attenuation,Amplification,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,amount,Attenuation,Attenuation,100,575,0.1739130434782609
+2025-01_17,fixed_A,mean,amount,Attenuation,Within reference range,19,575,0.03304347826086956
+2025-01_17,fixed_A,mean,amount,Within reference range,Amplification,15,575,0.02608695652173913
+2025-01_17,fixed_A,mean,amount,Within reference range,Attenuation,19,575,0.03304347826086956
+2025-01_17,fixed_A,mean,amount,Within reference range,Within reference range,345,575,0.6
+2025-01_17,fixed_A,mean,R,False,False,56,575,0.09739130434782609
+2025-01_17,fixed_A,mean,R,False,True,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,R,True,True,518,575,0.9008695652173913
+2025-01_17,fixed_A,mean,H,False,False,57,575,0.09913043478260869
+2025-01_17,fixed_A,mean,H,False,True,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,H,True,False,1,575,0.001739130434782609
+2025-01_17,fixed_A,mean,H,True,True,516,575,0.8973913043478261
+2025-01_17,fixed_H_median,mean,direction,positive,neutral,1,517,0.001934235976789168
+2025-01_17,fixed_H_median,mean,direction,positive,positive,516,517,0.9980657640232108
+2025-01_17,fixed_H_median,mean,amount,Amplification,Amplification,49,517,0.09477756286266925
+2025-01_17,fixed_H_median,mean,amount,Amplification,Attenuation,3,517,0.005802707930367505
+2025-01_17,fixed_H_median,mean,amount,Amplification,Within reference range,23,517,0.04448742746615087
+2025-01_17,fixed_H_median,mean,amount,Attenuation,Attenuation,99,517,0.1914893617021277
+2025-01_17,fixed_H_median,mean,amount,Attenuation,Within reference range,19,517,0.0367504835589942
+2025-01_17,fixed_H_median,mean,amount,Within reference range,Amplification,14,517,0.02707930367504836
+2025-01_17,fixed_H_median,mean,amount,Within reference range,Attenuation,18,517,0.03481624758220503
+2025-01_17,fixed_H_median,mean,amount,Within reference range,Within reference range,292,517,0.5647969052224371
+2025-01_17,fixed_H_median,mean,R,True,True,517,517,1
+2025-01_17,fixed_H_median,mean,H,True,False,1,517,0.001934235976789168
+2025-01_17,fixed_H_median,mean,H,True,True,516,517,0.9980657640232108
+2025-01_17,fixed_A,vwap,direction,negative,negative,1,575,0.001739130434782609
+2025-01_17,fixed_A,vwap,direction,negative,positive,1,575,0.001739130434782609
+2025-01_17,fixed_A,vwap,direction,neutral,negative,4,575,0.006956521739130435
+2025-01_17,fixed_A,vwap,direction,neutral,neutral,51,575,0.08869565217391304
+2025-01_17,fixed_A,vwap,direction,neutral,positive,1,575,0.001739130434782609
+2025-01_17,fixed_A,vwap,direction,positive,neutral,2,575,0.003478260869565218
+2025-01_17,fixed_A,vwap,direction,positive,positive,515,575,0.8956521739130435
+2025-01_17,fixed_A,vwap,amount,Amplification,Amplification,48,575,0.08347826086956522
+2025-01_17,fixed_A,vwap,amount,Amplification,Attenuation,3,575,0.005217391304347826
+2025-01_17,fixed_A,vwap,amount,Amplification,Within reference range,25,575,0.04347826086956522
+2025-01_17,fixed_A,vwap,amount,Attenuation,Amplification,2,575,0.003478260869565218
+2025-01_17,fixed_A,vwap,amount,Attenuation,Attenuation,96,575,0.1669565217391304
+2025-01_17,fixed_A,vwap,amount,Attenuation,Within reference range,22,575,0.03826086956521739
+2025-01_17,fixed_A,vwap,amount,Within reference range,Amplification,19,575,0.03304347826086956
+2025-01_17,fixed_A,vwap,amount,Within reference range,Attenuation,16,575,0.02782608695652174
+2025-01_17,fixed_A,vwap,amount,Within reference range,Within reference range,344,575,0.5982608695652174
+2025-01_17,fixed_A,vwap,R,False,False,56,575,0.09739130434782609
+2025-01_17,fixed_A,vwap,R,False,True,1,575,0.001739130434782609
+2025-01_17,fixed_A,vwap,R,True,True,518,575,0.9008695652173913
+2025-01_17,fixed_A,vwap,H,False,False,56,575,0.09739130434782609
+2025-01_17,fixed_A,vwap,H,False,True,2,575,0.003478260869565218
+2025-01_17,fixed_A,vwap,H,True,False,2,575,0.003478260869565218
+2025-01_17,fixed_A,vwap,H,True,True,515,575,0.8956521739130435
+2025-01_17,fixed_H_median,vwap,direction,positive,neutral,2,517,0.003868471953578337
+2025-01_17,fixed_H_median,vwap,direction,positive,positive,515,517,0.9961315280464217
+2025-01_17,fixed_H_median,vwap,amount,Amplification,Amplification,47,517,0.09090909090909091
+2025-01_17,fixed_H_median,vwap,amount,Amplification,Attenuation,3,517,0.005802707930367505
+2025-01_17,fixed_H_median,vwap,amount,Amplification,Within reference range,25,517,0.0483558994197292
+2025-01_17,fixed_H_median,vwap,amount,Attenuation,Amplification,1,517,0.001934235976789168
+2025-01_17,fixed_H_median,vwap,amount,Attenuation,Attenuation,95,517,0.183752417794971
+2025-01_17,fixed_H_median,vwap,amount,Attenuation,Within reference range,22,517,0.0425531914893617
+2025-01_17,fixed_H_median,vwap,amount,Within reference range,Amplification,19,517,0.0367504835589942
+2025-01_17,fixed_H_median,vwap,amount,Within reference range,Attenuation,16,517,0.03094777562862669
+2025-01_17,fixed_H_median,vwap,amount,Within reference range,Within reference range,289,517,0.5589941972920697
+2025-01_17,fixed_H_median,vwap,R,True,True,517,517,1
+2025-01_17,fixed_H_median,vwap,H,True,False,2,517,0.003868471953578337
+2025-01_17,fixed_H_median,vwap,H,True,True,515,517,0.9961315280464217
+2025-01_22,fixed_A,mean,direction,negative,neutral,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,direction,neutral,negative,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,direction,neutral,neutral,10,417,0.02398081534772182
+2025-01_22,fixed_A,mean,direction,neutral,positive,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,direction,positive,positive,404,417,0.9688249400479616
+2025-01_22,fixed_A,mean,amount,Amplification,Amplification,32,417,0.07673860911270983
+2025-01_22,fixed_A,mean,amount,Amplification,Attenuation,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,amount,Amplification,Within reference range,8,417,0.01918465227817746
+2025-01_22,fixed_A,mean,amount,Attenuation,Amplification,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,amount,Attenuation,Attenuation,72,417,0.1726618705035971
+2025-01_22,fixed_A,mean,amount,Attenuation,Within reference range,28,417,0.0671462829736211
+2025-01_22,fixed_A,mean,amount,Within reference range,Amplification,8,417,0.01918465227817746
+2025-01_22,fixed_A,mean,amount,Within reference range,Attenuation,9,417,0.02158273381294964
+2025-01_22,fixed_A,mean,amount,Within reference range,Within reference range,258,417,0.6187050359712231
+2025-01_22,fixed_A,mean,R,False,False,12,417,0.02877697841726619
+2025-01_22,fixed_A,mean,R,False,True,1,417,0.002398081534772182
+2025-01_22,fixed_A,mean,R,True,True,404,417,0.9688249400479616
+2025-01_22,fixed_A,mean,H,False,False,12,417,0.02877697841726619
+2025-01_22,fixed_A,mean,H,False,True,2,417,0.004796163069544364
+2025-01_22,fixed_A,mean,H,True,True,403,417,0.9664268585131894
+2025-01_22,fixed_H_median,mean,direction,positive,positive,403,403,1
+2025-01_22,fixed_H_median,mean,amount,Amplification,Amplification,31,403,0.07692307692307693
+2025-01_22,fixed_H_median,mean,amount,Amplification,Attenuation,1,403,0.002481389578163772
+2025-01_22,fixed_H_median,mean,amount,Amplification,Within reference range,8,403,0.01985111662531017
+2025-01_22,fixed_H_median,mean,amount,Attenuation,Amplification,1,403,0.002481389578163772
+2025-01_22,fixed_H_median,mean,amount,Attenuation,Attenuation,72,403,0.1786600496277916
+2025-01_22,fixed_H_median,mean,amount,Attenuation,Within reference range,26,403,0.06451612903225806
+2025-01_22,fixed_H_median,mean,amount,Within reference range,Amplification,8,403,0.01985111662531017
+2025-01_22,fixed_H_median,mean,amount,Within reference range,Attenuation,8,403,0.01985111662531017
+2025-01_22,fixed_H_median,mean,amount,Within reference range,Within reference range,248,403,0.6153846153846154
+2025-01_22,fixed_H_median,mean,R,True,True,403,403,1
+2025-01_22,fixed_H_median,mean,H,True,True,403,403,1
+2025-01_22,fixed_A,vwap,direction,negative,neutral,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,direction,neutral,negative,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,direction,neutral,neutral,10,417,0.02398081534772182
+2025-01_22,fixed_A,vwap,direction,neutral,positive,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,direction,positive,positive,404,417,0.9688249400479616
+2025-01_22,fixed_A,vwap,amount,Amplification,Amplification,33,417,0.07913669064748201
+2025-01_22,fixed_A,vwap,amount,Amplification,Attenuation,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,amount,Amplification,Within reference range,7,417,0.01678657074340528
+2025-01_22,fixed_A,vwap,amount,Attenuation,Amplification,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,amount,Attenuation,Attenuation,74,417,0.1774580335731415
+2025-01_22,fixed_A,vwap,amount,Attenuation,Within reference range,26,417,0.06235011990407674
+2025-01_22,fixed_A,vwap,amount,Within reference range,Amplification,15,417,0.03597122302158273
+2025-01_22,fixed_A,vwap,amount,Within reference range,Attenuation,7,417,0.01678657074340528
+2025-01_22,fixed_A,vwap,amount,Within reference range,Within reference range,253,417,0.6067146282973621
+2025-01_22,fixed_A,vwap,R,False,False,12,417,0.02877697841726619
+2025-01_22,fixed_A,vwap,R,False,True,1,417,0.002398081534772182
+2025-01_22,fixed_A,vwap,R,True,True,404,417,0.9688249400479616
+2025-01_22,fixed_A,vwap,H,False,False,12,417,0.02877697841726619
+2025-01_22,fixed_A,vwap,H,False,True,2,417,0.004796163069544364
+2025-01_22,fixed_A,vwap,H,True,True,403,417,0.9664268585131894
+2025-01_22,fixed_H_median,vwap,direction,positive,positive,403,403,1
+2025-01_22,fixed_H_median,vwap,amount,Amplification,Amplification,32,403,0.07940446650124069
+2025-01_22,fixed_H_median,vwap,amount,Amplification,Attenuation,1,403,0.002481389578163772
+2025-01_22,fixed_H_median,vwap,amount,Amplification,Within reference range,7,403,0.0173697270471464
+2025-01_22,fixed_H_median,vwap,amount,Attenuation,Amplification,1,403,0.002481389578163772
+2025-01_22,fixed_H_median,vwap,amount,Attenuation,Attenuation,73,403,0.1811414392059553
+2025-01_22,fixed_H_median,vwap,amount,Attenuation,Within reference range,25,403,0.0620347394540943
+2025-01_22,fixed_H_median,vwap,amount,Within reference range,Amplification,15,403,0.03722084367245657
+2025-01_22,fixed_H_median,vwap,amount,Within reference range,Attenuation,6,403,0.01488833746898263
+2025-01_22,fixed_H_median,vwap,amount,Within reference range,Within reference range,243,403,0.6029776674937966
+2025-01_22,fixed_H_median,vwap,R,True,True,403,403,1
+2025-01_22,fixed_H_median,vwap,H,True,True,403,403,1
+2025-01_23,fixed_A,mean,direction,neutral,neutral,16,532,0.03007518796992481
+2025-01_23,fixed_A,mean,direction,neutral,positive,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,direction,positive,neutral,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,direction,positive,positive,514,532,0.9661654135338346
+2025-01_23,fixed_A,mean,amount,Amplification,Amplification,118,532,0.2218045112781955
+2025-01_23,fixed_A,mean,amount,Amplification,Attenuation,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,amount,Amplification,Within reference range,27,532,0.05075187969924812
+2025-01_23,fixed_A,mean,amount,Attenuation,Amplification,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,amount,Attenuation,Attenuation,47,532,0.08834586466165413
+2025-01_23,fixed_A,mean,amount,Attenuation,Within reference range,8,532,0.01503759398496241
+2025-01_23,fixed_A,mean,amount,Within reference range,Amplification,9,532,0.01691729323308271
+2025-01_23,fixed_A,mean,amount,Within reference range,Attenuation,12,532,0.02255639097744361
+2025-01_23,fixed_A,mean,amount,Within reference range,Within reference range,309,532,0.5808270676691729
+2025-01_23,fixed_A,mean,R,False,False,16,532,0.03007518796992481
+2025-01_23,fixed_A,mean,R,False,True,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,R,True,True,515,532,0.9680451127819549
+2025-01_23,fixed_A,mean,H,False,False,16,532,0.03007518796992481
+2025-01_23,fixed_A,mean,H,False,True,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,H,True,False,1,532,0.001879699248120301
+2025-01_23,fixed_A,mean,H,True,True,514,532,0.9661654135338346
+2025-01_23,fixed_H_median,mean,direction,positive,neutral,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,mean,direction,positive,positive,514,515,0.9980582524271845
+2025-01_23,fixed_H_median,mean,amount,Amplification,Amplification,118,515,0.229126213592233
+2025-01_23,fixed_H_median,mean,amount,Amplification,Attenuation,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,mean,amount,Amplification,Within reference range,27,515,0.05242718446601942
+2025-01_23,fixed_H_median,mean,amount,Attenuation,Amplification,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,mean,amount,Attenuation,Attenuation,47,515,0.0912621359223301
+2025-01_23,fixed_H_median,mean,amount,Attenuation,Within reference range,8,515,0.01553398058252427
+2025-01_23,fixed_H_median,mean,amount,Within reference range,Amplification,9,515,0.01747572815533981
+2025-01_23,fixed_H_median,mean,amount,Within reference range,Attenuation,12,515,0.02330097087378641
+2025-01_23,fixed_H_median,mean,amount,Within reference range,Within reference range,292,515,0.566990291262136
+2025-01_23,fixed_H_median,mean,R,True,True,515,515,1
+2025-01_23,fixed_H_median,mean,H,True,False,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,mean,H,True,True,514,515,0.9980582524271845
+2025-01_23,fixed_A,vwap,direction,neutral,neutral,17,532,0.03195488721804511
+2025-01_23,fixed_A,vwap,direction,positive,negative,1,532,0.001879699248120301
+2025-01_23,fixed_A,vwap,direction,positive,neutral,1,532,0.001879699248120301
+2025-01_23,fixed_A,vwap,direction,positive,positive,513,532,0.9642857142857143
+2025-01_23,fixed_A,vwap,amount,Amplification,Amplification,118,532,0.2218045112781955
+2025-01_23,fixed_A,vwap,amount,Amplification,Attenuation,2,532,0.003759398496240601
+2025-01_23,fixed_A,vwap,amount,Amplification,Within reference range,26,532,0.04887218045112782
+2025-01_23,fixed_A,vwap,amount,Attenuation,Amplification,1,532,0.001879699248120301
+2025-01_23,fixed_A,vwap,amount,Attenuation,Attenuation,44,532,0.08270676691729323
+2025-01_23,fixed_A,vwap,amount,Attenuation,Within reference range,11,532,0.02067669172932331
+2025-01_23,fixed_A,vwap,amount,Within reference range,Amplification,13,532,0.02443609022556391
+2025-01_23,fixed_A,vwap,amount,Within reference range,Attenuation,10,532,0.01879699248120301
+2025-01_23,fixed_A,vwap,amount,Within reference range,Within reference range,307,532,0.5770676691729323
+2025-01_23,fixed_A,vwap,R,False,False,16,532,0.03007518796992481
+2025-01_23,fixed_A,vwap,R,False,True,1,532,0.001879699248120301
+2025-01_23,fixed_A,vwap,R,True,False,2,532,0.003759398496240601
+2025-01_23,fixed_A,vwap,R,True,True,513,532,0.9642857142857143
+2025-01_23,fixed_A,vwap,H,False,False,17,532,0.03195488721804511
+2025-01_23,fixed_A,vwap,H,True,False,2,532,0.003759398496240601
+2025-01_23,fixed_A,vwap,H,True,True,513,532,0.9642857142857143
+2025-01_23,fixed_H_median,vwap,direction,positive,negative,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,vwap,direction,positive,neutral,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,vwap,direction,positive,positive,513,515,0.996116504854369
+2025-01_23,fixed_H_median,vwap,amount,Amplification,Amplification,118,515,0.229126213592233
+2025-01_23,fixed_H_median,vwap,amount,Amplification,Attenuation,2,515,0.003883495145631068
+2025-01_23,fixed_H_median,vwap,amount,Amplification,Within reference range,26,515,0.05048543689320388
+2025-01_23,fixed_H_median,vwap,amount,Attenuation,Amplification,1,515,0.001941747572815534
+2025-01_23,fixed_H_median,vwap,amount,Attenuation,Attenuation,44,515,0.08543689320388349
+2025-01_23,fixed_H_median,vwap,amount,Attenuation,Within reference range,11,515,0.02135922330097087
+2025-01_23,fixed_H_median,vwap,amount,Within reference range,Amplification,12,515,0.02330097087378641
+2025-01_23,fixed_H_median,vwap,amount,Within reference range,Attenuation,10,515,0.01941747572815534
+2025-01_23,fixed_H_median,vwap,amount,Within reference range,Within reference range,291,515,0.5650485436893203
+2025-01_23,fixed_H_median,vwap,R,True,False,2,515,0.003883495145631068
+2025-01_23,fixed_H_median,vwap,R,True,True,513,515,0.996116504854369
+2025-01_23,fixed_H_median,vwap,H,True,False,2,515,0.003883495145631068
+2025-01_23,fixed_H_median,vwap,H,True,True,513,515,0.996116504854369
+2025-07_07,fixed_A,mean,direction,negative,negative,11,2231,0.004930524428507396
+2025-07_07,fixed_A,mean,direction,negative,neutral,2,2231,0.0008964589870013447
+2025-07_07,fixed_A,mean,direction,negative,positive,2,2231,0.0008964589870013447
+2025-07_07,fixed_A,mean,direction,neutral,negative,22,2231,0.009861048857014791
+2025-07_07,fixed_A,mean,direction,neutral,neutral,54,2231,0.02420439264903631
+2025-07_07,fixed_A,mean,direction,neutral,positive,41,2231,0.01837740923352757
+2025-07_07,fixed_A,mean,direction,positive,neutral,2,2231,0.0008964589870013447
+2025-07_07,fixed_A,mean,direction,positive,positive,2097,2231,0.9399372478709099
+2025-07_07,fixed_A,mean,amount,Amplification,Amplification,502,2231,0.2250112057373375
+2025-07_07,fixed_A,mean,amount,Amplification,Within reference range,81,2231,0.03630658897355446
+2025-07_07,fixed_A,mean,amount,Attenuation,Amplification,1,2231,0.0004482294935006724
+2025-07_07,fixed_A,mean,amount,Attenuation,Attenuation,159,2231,0.0712684894666069
+2025-07_07,fixed_A,mean,amount,Attenuation,Within reference range,24,2231,0.01075750784401614
+2025-07_07,fixed_A,mean,amount,Within reference range,Amplification,70,2231,0.03137606454504707
+2025-07_07,fixed_A,mean,amount,Within reference range,Attenuation,61,2231,0.02734199910354101
+2025-07_07,fixed_A,mean,amount,Within reference range,Within reference range,1333,2231,0.5974899148363962
+2025-07_07,fixed_A,mean,R,False,False,89,2231,0.03989242492155984
+2025-07_07,fixed_A,mean,R,False,True,39,2231,0.01748095024652622
+2025-07_07,fixed_A,mean,R,True,True,2103,2231,0.942626624831914
+2025-07_07,fixed_A,mean,H,False,False,110,2231,0.04930524428507396
+2025-07_07,fixed_A,mean,H,False,True,42,2231,0.01882563872702824
+2025-07_07,fixed_A,mean,H,True,True,2079,2231,0.9318691169878978
+2025-07_07,fixed_H_median,mean,direction,positive,positive,2079,2079,1
+2025-07_07,fixed_H_median,mean,amount,Amplification,Amplification,484,2079,0.2328042328042328
+2025-07_07,fixed_H_median,mean,amount,Amplification,Within reference range,79,2079,0.037999037999038
+2025-07_07,fixed_H_median,mean,amount,Attenuation,Amplification,1,2079,0.000481000481000481
+2025-07_07,fixed_H_median,mean,amount,Attenuation,Attenuation,136,2079,0.06541606541606541
+2025-07_07,fixed_H_median,mean,amount,Attenuation,Within reference range,23,2079,0.01106301106301106
+2025-07_07,fixed_H_median,mean,amount,Within reference range,Amplification,51,2079,0.02453102453102453
+2025-07_07,fixed_H_median,mean,amount,Within reference range,Attenuation,28,2079,0.01346801346801347
+2025-07_07,fixed_H_median,mean,amount,Within reference range,Within reference range,1277,2079,0.6142376142376142
+2025-07_07,fixed_H_median,mean,R,True,True,2079,2079,1
+2025-07_07,fixed_H_median,mean,H,True,True,2079,2079,1
+2025-07_07,fixed_A,vwap,direction,negative,negative,10,2231,0.004482294935006723
+2025-07_07,fixed_A,vwap,direction,negative,neutral,3,2231,0.001344688480502017
+2025-07_07,fixed_A,vwap,direction,negative,positive,2,2231,0.0008964589870013447
+2025-07_07,fixed_A,vwap,direction,neutral,negative,22,2231,0.009861048857014791
+2025-07_07,fixed_A,vwap,direction,neutral,neutral,51,2231,0.02285970416853429
+2025-07_07,fixed_A,vwap,direction,neutral,positive,44,2231,0.01972209771402958
+2025-07_07,fixed_A,vwap,direction,positive,neutral,2,2231,0.0008964589870013447
+2025-07_07,fixed_A,vwap,direction,positive,positive,2097,2231,0.9399372478709099
+2025-07_07,fixed_A,vwap,amount,Amplification,Amplification,507,2231,0.2272523532048409
+2025-07_07,fixed_A,vwap,amount,Amplification,Attenuation,1,2231,0.0004482294935006724
+2025-07_07,fixed_A,vwap,amount,Amplification,Within reference range,75,2231,0.03361721201255043
+2025-07_07,fixed_A,vwap,amount,Attenuation,Amplification,1,2231,0.0004482294935006724
+2025-07_07,fixed_A,vwap,amount,Attenuation,Attenuation,158,2231,0.07082025997310623
+2025-07_07,fixed_A,vwap,amount,Attenuation,Within reference range,25,2231,0.01120573733751681
+2025-07_07,fixed_A,vwap,amount,Within reference range,Amplification,84,2231,0.03765127745405648
+2025-07_07,fixed_A,vwap,amount,Within reference range,Attenuation,64,2231,0.02868668758404303
+2025-07_07,fixed_A,vwap,amount,Within reference range,Within reference range,1316,2231,0.5898700134468848
+2025-07_07,fixed_A,vwap,R,False,False,86,2231,0.03854773644105782
+2025-07_07,fixed_A,vwap,R,False,True,42,2231,0.01882563872702824
+2025-07_07,fixed_A,vwap,R,True,True,2103,2231,0.942626624831914
+2025-07_07,fixed_A,vwap,H,False,False,106,2231,0.04751232631107127
+2025-07_07,fixed_A,vwap,H,False,True,46,2231,0.02061855670103093
+2025-07_07,fixed_A,vwap,H,True,True,2079,2231,0.9318691169878978
+2025-07_07,fixed_H_median,vwap,direction,positive,positive,2079,2079,1
+2025-07_07,fixed_H_median,vwap,amount,Amplification,Amplification,489,2079,0.2352092352092352
+2025-07_07,fixed_H_median,vwap,amount,Amplification,Attenuation,1,2079,0.000481000481000481
+2025-07_07,fixed_H_median,vwap,amount,Amplification,Within reference range,73,2079,0.03511303511303511
+2025-07_07,fixed_H_median,vwap,amount,Attenuation,Amplification,1,2079,0.000481000481000481
+2025-07_07,fixed_H_median,vwap,amount,Attenuation,Attenuation,136,2079,0.06541606541606541
+2025-07_07,fixed_H_median,vwap,amount,Attenuation,Within reference range,23,2079,0.01106301106301106
+2025-07_07,fixed_H_median,vwap,amount,Within reference range,Amplification,60,2079,0.02886002886002886
+2025-07_07,fixed_H_median,vwap,amount,Within reference range,Attenuation,28,2079,0.01346801346801347
+2025-07_07,fixed_H_median,vwap,amount,Within reference range,Within reference range,1268,2079,0.60990860990861
+2025-07_07,fixed_H_median,vwap,R,True,True,2079,2079,1
+2025-07_07,fixed_H_median,vwap,H,True,True,2079,2079,1
+2025-07_10,fixed_A,mean,direction,negative,negative,4,1134,0.003527336860670194
+2025-07_10,fixed_A,mean,direction,negative,positive,2,1134,0.001763668430335097
+2025-07_10,fixed_A,mean,direction,neutral,negative,10,1134,0.008818342151675485
+2025-07_10,fixed_A,mean,direction,neutral,neutral,19,1134,0.01675485008818342
+2025-07_10,fixed_A,mean,direction,neutral,positive,12,1134,0.01058201058201058
+2025-07_10,fixed_A,mean,direction,positive,negative,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,mean,direction,positive,positive,1086,1134,0.9576719576719577
+2025-07_10,fixed_A,mean,amount,Amplification,Amplification,112,1134,0.09876543209876543
+2025-07_10,fixed_A,mean,amount,Amplification,Attenuation,3,1134,0.002645502645502645
+2025-07_10,fixed_A,mean,amount,Amplification,Within reference range,46,1134,0.04056437389770723
+2025-07_10,fixed_A,mean,amount,Attenuation,Attenuation,198,1134,0.1746031746031746
+2025-07_10,fixed_A,mean,amount,Attenuation,Within reference range,33,1134,0.0291005291005291
+2025-07_10,fixed_A,mean,amount,Within reference range,Amplification,39,1134,0.03439153439153439
+2025-07_10,fixed_A,mean,amount,Within reference range,Attenuation,36,1134,0.03174603174603174
+2025-07_10,fixed_A,mean,amount,Within reference range,Within reference range,667,1134,0.5881834215167548
+2025-07_10,fixed_A,mean,R,False,False,37,1134,0.03262786596119929
+2025-07_10,fixed_A,mean,R,False,True,11,1134,0.009700176366843033
+2025-07_10,fixed_A,mean,R,True,True,1086,1134,0.9576719576719577
+2025-07_10,fixed_A,mean,H,False,False,39,1134,0.03439153439153439
+2025-07_10,fixed_A,mean,H,False,True,13,1134,0.01146384479717813
+2025-07_10,fixed_A,mean,H,True,False,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,mean,H,True,True,1081,1134,0.95326278659612
+2025-07_10,fixed_H_median,mean,direction,positive,negative,1,1082,0.0009242144177449168
+2025-07_10,fixed_H_median,mean,direction,positive,positive,1081,1082,0.9990757855822551
+2025-07_10,fixed_H_median,mean,amount,Amplification,Amplification,107,1082,0.0988909426987061
+2025-07_10,fixed_H_median,mean,amount,Amplification,Attenuation,3,1082,0.00277264325323475
+2025-07_10,fixed_H_median,mean,amount,Amplification,Within reference range,46,1082,0.04251386321626617
+2025-07_10,fixed_H_median,mean,amount,Attenuation,Attenuation,190,1082,0.1756007393715342
+2025-07_10,fixed_H_median,mean,amount,Attenuation,Within reference range,33,1082,0.03049907578558226
+2025-07_10,fixed_H_median,mean,amount,Within reference range,Amplification,29,1082,0.02680221811460259
+2025-07_10,fixed_H_median,mean,amount,Within reference range,Attenuation,24,1082,0.022181146025878
+2025-07_10,fixed_H_median,mean,amount,Within reference range,Within reference range,650,1082,0.600739371534196
+2025-07_10,fixed_H_median,mean,R,True,True,1082,1082,1
+2025-07_10,fixed_H_median,mean,H,True,False,1,1082,0.0009242144177449168
+2025-07_10,fixed_H_median,mean,H,True,True,1081,1082,0.9990757855822551
+2025-07_10,fixed_A,vwap,direction,negative,negative,4,1134,0.003527336860670194
+2025-07_10,fixed_A,vwap,direction,negative,neutral,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,vwap,direction,negative,positive,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,vwap,direction,neutral,negative,11,1134,0.009700176366843033
+2025-07_10,fixed_A,vwap,direction,neutral,neutral,14,1134,0.01234567901234568
+2025-07_10,fixed_A,vwap,direction,neutral,positive,16,1134,0.01410934744268078
+2025-07_10,fixed_A,vwap,direction,positive,negative,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,vwap,direction,positive,positive,1086,1134,0.9576719576719577
+2025-07_10,fixed_A,vwap,amount,Amplification,Amplification,114,1134,0.1005291005291005
+2025-07_10,fixed_A,vwap,amount,Amplification,Attenuation,4,1134,0.003527336860670194
+2025-07_10,fixed_A,vwap,amount,Amplification,Within reference range,43,1134,0.03791887125220458
+2025-07_10,fixed_A,vwap,amount,Attenuation,Amplification,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,vwap,amount,Attenuation,Attenuation,196,1134,0.1728395061728395
+2025-07_10,fixed_A,vwap,amount,Attenuation,Within reference range,34,1134,0.02998236331569665
+2025-07_10,fixed_A,vwap,amount,Within reference range,Amplification,45,1134,0.03968253968253968
+2025-07_10,fixed_A,vwap,amount,Within reference range,Attenuation,42,1134,0.03703703703703703
+2025-07_10,fixed_A,vwap,amount,Within reference range,Within reference range,655,1134,0.5776014109347443
+2025-07_10,fixed_A,vwap,R,False,False,34,1134,0.02998236331569665
+2025-07_10,fixed_A,vwap,R,False,True,14,1134,0.01234567901234568
+2025-07_10,fixed_A,vwap,R,True,True,1086,1134,0.9576719576719577
+2025-07_10,fixed_A,vwap,H,False,False,36,1134,0.03174603174603174
+2025-07_10,fixed_A,vwap,H,False,True,16,1134,0.01410934744268078
+2025-07_10,fixed_A,vwap,H,True,False,1,1134,0.0008818342151675485
+2025-07_10,fixed_A,vwap,H,True,True,1081,1134,0.95326278659612
+2025-07_10,fixed_H_median,vwap,direction,positive,negative,1,1082,0.0009242144177449168
+2025-07_10,fixed_H_median,vwap,direction,positive,positive,1081,1082,0.9990757855822551
+2025-07_10,fixed_H_median,vwap,amount,Amplification,Amplification,109,1082,0.1007393715341959
+2025-07_10,fixed_H_median,vwap,amount,Amplification,Attenuation,4,1082,0.003696857670979667
+2025-07_10,fixed_H_median,vwap,amount,Amplification,Within reference range,43,1082,0.03974121996303143
+2025-07_10,fixed_H_median,vwap,amount,Attenuation,Amplification,1,1082,0.0009242144177449168
+2025-07_10,fixed_H_median,vwap,amount,Attenuation,Attenuation,188,1082,0.1737523105360444
+2025-07_10,fixed_H_median,vwap,amount,Attenuation,Within reference range,34,1082,0.03142329020332717
+2025-07_10,fixed_H_median,vwap,amount,Within reference range,Amplification,34,1082,0.03142329020332717
+2025-07_10,fixed_H_median,vwap,amount,Within reference range,Attenuation,29,1082,0.02680221811460259
+2025-07_10,fixed_H_median,vwap,amount,Within reference range,Within reference range,640,1082,0.5914972273567468
+2025-07_10,fixed_H_median,vwap,R,True,True,1082,1082,1
+2025-07_10,fixed_H_median,vwap,H,True,False,1,1082,0.0009242144177449168
+2025-07_10,fixed_H_median,vwap,H,True,True,1081,1082,0.9990757855822551
+2025-07_22,fixed_A,mean,direction,neutral,negative,4,1073,0.003727865796831314
+2025-07_22,fixed_A,mean,direction,neutral,neutral,8,1073,0.007455731593662628
+2025-07_22,fixed_A,mean,direction,neutral,positive,5,1073,0.004659832246039142
+2025-07_22,fixed_A,mean,direction,positive,negative,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,mean,direction,positive,neutral,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,mean,direction,positive,positive,1054,1073,0.9822926374650512
+2025-07_22,fixed_A,mean,amount,Amplification,Amplification,128,1073,0.119291705498602
+2025-07_22,fixed_A,mean,amount,Amplification,Within reference range,63,1073,0.05871388630009319
+2025-07_22,fixed_A,mean,amount,Attenuation,Attenuation,163,1073,0.1519105312208761
+2025-07_22,fixed_A,mean,amount,Attenuation,Within reference range,21,1073,0.0195712954333644
+2025-07_22,fixed_A,mean,amount,Within reference range,Amplification,34,1073,0.03168685927306617
+2025-07_22,fixed_A,mean,amount,Within reference range,Attenuation,43,1073,0.04007455731593663
+2025-07_22,fixed_A,mean,amount,Within reference range,Within reference range,621,1073,0.5787511649580616
+2025-07_22,fixed_A,mean,R,False,False,15,1073,0.01397949673811743
+2025-07_22,fixed_A,mean,R,False,True,4,1073,0.003727865796831314
+2025-07_22,fixed_A,mean,R,True,False,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,mean,R,True,True,1053,1073,0.9813606710158435
+2025-07_22,fixed_A,mean,H,False,False,16,1073,0.01491146318732526
+2025-07_22,fixed_A,mean,H,False,True,4,1073,0.003727865796831314
+2025-07_22,fixed_A,mean,H,True,False,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,mean,H,True,True,1052,1073,0.9804287045666356
+2025-07_22,fixed_H_median,mean,direction,positive,negative,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,mean,direction,positive,positive,1052,1053,0.9990503323836657
+2025-07_22,fixed_H_median,mean,amount,Amplification,Amplification,126,1053,0.1196581196581197
+2025-07_22,fixed_H_median,mean,amount,Amplification,Within reference range,62,1053,0.05887939221272555
+2025-07_22,fixed_H_median,mean,amount,Attenuation,Attenuation,162,1053,0.1538461538461539
+2025-07_22,fixed_H_median,mean,amount,Attenuation,Within reference range,21,1053,0.01994301994301994
+2025-07_22,fixed_H_median,mean,amount,Within reference range,Amplification,32,1053,0.03038936372269706
+2025-07_22,fixed_H_median,mean,amount,Within reference range,Attenuation,39,1053,0.03703703703703703
+2025-07_22,fixed_H_median,mean,amount,Within reference range,Within reference range,611,1053,0.5802469135802469
+2025-07_22,fixed_H_median,mean,R,True,False,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,mean,R,True,True,1052,1053,0.9990503323836657
+2025-07_22,fixed_H_median,mean,H,True,False,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,mean,H,True,True,1052,1053,0.9990503323836657
+2025-07_22,fixed_A,vwap,direction,neutral,negative,4,1073,0.003727865796831314
+2025-07_22,fixed_A,vwap,direction,neutral,neutral,9,1073,0.008387698042870456
+2025-07_22,fixed_A,vwap,direction,neutral,positive,4,1073,0.003727865796831314
+2025-07_22,fixed_A,vwap,direction,positive,negative,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,vwap,direction,positive,neutral,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,vwap,direction,positive,positive,1054,1073,0.9822926374650512
+2025-07_22,fixed_A,vwap,amount,Amplification,Amplification,128,1073,0.119291705498602
+2025-07_22,fixed_A,vwap,amount,Amplification,Attenuation,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,vwap,amount,Amplification,Within reference range,62,1073,0.05778191985088537
+2025-07_22,fixed_A,vwap,amount,Attenuation,Attenuation,163,1073,0.1519105312208761
+2025-07_22,fixed_A,vwap,amount,Attenuation,Within reference range,21,1073,0.0195712954333644
+2025-07_22,fixed_A,vwap,amount,Within reference range,Amplification,41,1073,0.03821062441752097
+2025-07_22,fixed_A,vwap,amount,Within reference range,Attenuation,41,1073,0.03821062441752097
+2025-07_22,fixed_A,vwap,amount,Within reference range,Within reference range,616,1073,0.5740913327120224
+2025-07_22,fixed_A,vwap,R,False,False,15,1073,0.01397949673811743
+2025-07_22,fixed_A,vwap,R,False,True,4,1073,0.003727865796831314
+2025-07_22,fixed_A,vwap,R,True,False,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,vwap,R,True,True,1053,1073,0.9813606710158435
+2025-07_22,fixed_A,vwap,H,False,False,16,1073,0.01491146318732526
+2025-07_22,fixed_A,vwap,H,False,True,4,1073,0.003727865796831314
+2025-07_22,fixed_A,vwap,H,True,False,1,1073,0.0009319664492078285
+2025-07_22,fixed_A,vwap,H,True,True,1052,1073,0.9804287045666356
+2025-07_22,fixed_H_median,vwap,direction,positive,negative,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,vwap,direction,positive,positive,1052,1053,0.9990503323836657
+2025-07_22,fixed_H_median,vwap,amount,Amplification,Amplification,126,1053,0.1196581196581197
+2025-07_22,fixed_H_median,vwap,amount,Amplification,Attenuation,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,vwap,amount,Amplification,Within reference range,61,1053,0.05792972459639126
+2025-07_22,fixed_H_median,vwap,amount,Attenuation,Attenuation,162,1053,0.1538461538461539
+2025-07_22,fixed_H_median,vwap,amount,Attenuation,Within reference range,21,1053,0.01994301994301994
+2025-07_22,fixed_H_median,vwap,amount,Within reference range,Amplification,38,1053,0.03608736942070275
+2025-07_22,fixed_H_median,vwap,amount,Within reference range,Attenuation,37,1053,0.03513770180436847
+2025-07_22,fixed_H_median,vwap,amount,Within reference range,Within reference range,607,1053,0.5764482431149098
+2025-07_22,fixed_H_median,vwap,R,True,False,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,vwap,R,True,True,1052,1053,0.9990503323836657
+2025-07_22,fixed_H_median,vwap,H,True,False,1,1053,0.000949667616334283
+2025-07_22,fixed_H_median,vwap,H,True,True,1052,1053,0.9990503323836657
+2025-07_23,fixed_A,mean,direction,negative,negative,4,1072,0.003731343283582089
+2025-07_23,fixed_A,mean,direction,negative,positive,3,1072,0.002798507462686567
+2025-07_23,fixed_A,mean,direction,neutral,negative,10,1072,0.009328358208955223
+2025-07_23,fixed_A,mean,direction,neutral,neutral,11,1072,0.01026119402985075
+2025-07_23,fixed_A,mean,direction,neutral,positive,9,1072,0.008395522388059701
+2025-07_23,fixed_A,mean,direction,positive,neutral,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,mean,direction,positive,positive,1034,1072,0.9645522388059702
+2025-07_23,fixed_A,mean,amount,Amplification,Amplification,235,1072,0.2192164179104478
+2025-07_23,fixed_A,mean,amount,Amplification,Attenuation,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,mean,amount,Amplification,Within reference range,31,1072,0.02891791044776119
+2025-07_23,fixed_A,mean,amount,Attenuation,Attenuation,95,1072,0.08861940298507463
+2025-07_23,fixed_A,mean,amount,Attenuation,Within reference range,22,1072,0.02052238805970149
+2025-07_23,fixed_A,mean,amount,Within reference range,Amplification,34,1072,0.03171641791044776
+2025-07_23,fixed_A,mean,amount,Within reference range,Attenuation,27,1072,0.0251865671641791
+2025-07_23,fixed_A,mean,amount,Within reference range,Within reference range,627,1072,0.5848880597014925
+2025-07_23,fixed_A,mean,R,False,False,24,1072,0.02238805970149254
+2025-07_23,fixed_A,mean,R,False,True,6,1072,0.005597014925373134
+2025-07_23,fixed_A,mean,R,True,True,1042,1072,0.9720149253731343
+2025-07_23,fixed_A,mean,H,False,False,29,1072,0.02705223880597015
+2025-07_23,fixed_A,mean,H,False,True,10,1072,0.009328358208955223
+2025-07_23,fixed_A,mean,H,True,False,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,mean,H,True,True,1032,1072,0.9626865671641791
+2025-07_23,fixed_H_median,mean,direction,positive,neutral,1,1033,0.000968054211035818
+2025-07_23,fixed_H_median,mean,direction,positive,positive,1032,1033,0.9990319457889641
+2025-07_23,fixed_H_median,mean,amount,Amplification,Amplification,233,1033,0.2255566311713456
+2025-07_23,fixed_H_median,mean,amount,Amplification,Attenuation,1,1033,0.000968054211035818
+2025-07_23,fixed_H_median,mean,amount,Amplification,Within reference range,31,1033,0.03000968054211036
+2025-07_23,fixed_H_median,mean,amount,Attenuation,Attenuation,87,1033,0.08422071636011616
+2025-07_23,fixed_H_median,mean,amount,Attenuation,Within reference range,21,1033,0.02032913843175218
+2025-07_23,fixed_H_median,mean,amount,Within reference range,Amplification,26,1033,0.02516940948693127
+2025-07_23,fixed_H_median,mean,amount,Within reference range,Attenuation,17,1033,0.01645692158760891
+2025-07_23,fixed_H_median,mean,amount,Within reference range,Within reference range,617,1033,0.5972894482090997
+2025-07_23,fixed_H_median,mean,R,True,True,1033,1033,1
+2025-07_23,fixed_H_median,mean,H,True,False,1,1033,0.000968054211035818
+2025-07_23,fixed_H_median,mean,H,True,True,1032,1033,0.9990319457889641
+2025-07_23,fixed_A,vwap,direction,negative,negative,3,1072,0.002798507462686567
+2025-07_23,fixed_A,vwap,direction,negative,neutral,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,vwap,direction,negative,positive,3,1072,0.002798507462686567
+2025-07_23,fixed_A,vwap,direction,neutral,negative,11,1072,0.01026119402985075
+2025-07_23,fixed_A,vwap,direction,neutral,neutral,11,1072,0.01026119402985075
+2025-07_23,fixed_A,vwap,direction,neutral,positive,8,1072,0.007462686567164179
+2025-07_23,fixed_A,vwap,direction,positive,negative,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,vwap,direction,positive,neutral,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,vwap,direction,positive,positive,1033,1072,0.9636194029850746
+2025-07_23,fixed_A,vwap,amount,Amplification,Amplification,235,1072,0.2192164179104478
+2025-07_23,fixed_A,vwap,amount,Amplification,Within reference range,32,1072,0.02985074626865672
+2025-07_23,fixed_A,vwap,amount,Attenuation,Attenuation,94,1072,0.08768656716417911
+2025-07_23,fixed_A,vwap,amount,Attenuation,Within reference range,23,1072,0.02145522388059701
+2025-07_23,fixed_A,vwap,amount,Within reference range,Amplification,47,1072,0.04384328358208955
+2025-07_23,fixed_A,vwap,amount,Within reference range,Attenuation,31,1072,0.02891791044776119
+2025-07_23,fixed_A,vwap,amount,Within reference range,Within reference range,610,1072,0.5690298507462687
+2025-07_23,fixed_A,vwap,R,False,False,26,1072,0.02425373134328358
+2025-07_23,fixed_A,vwap,R,False,True,4,1072,0.003731343283582089
+2025-07_23,fixed_A,vwap,R,True,True,1042,1072,0.9720149253731343
+2025-07_23,fixed_A,vwap,H,False,False,31,1072,0.02891791044776119
+2025-07_23,fixed_A,vwap,H,False,True,8,1072,0.007462686567164179
+2025-07_23,fixed_A,vwap,H,True,False,1,1072,0.0009328358208955224
+2025-07_23,fixed_A,vwap,H,True,True,1032,1072,0.9626865671641791
+2025-07_23,fixed_H_median,vwap,direction,positive,negative,1,1033,0.000968054211035818
+2025-07_23,fixed_H_median,vwap,direction,positive,positive,1032,1033,0.9990319457889641
+2025-07_23,fixed_H_median,vwap,amount,Amplification,Amplification,234,1033,0.2265246853823814
+2025-07_23,fixed_H_median,vwap,amount,Amplification,Within reference range,31,1033,0.03000968054211036
+2025-07_23,fixed_H_median,vwap,amount,Attenuation,Attenuation,86,1033,0.08325266214908035
+2025-07_23,fixed_H_median,vwap,amount,Attenuation,Within reference range,22,1033,0.021297192642788
+2025-07_23,fixed_H_median,vwap,amount,Within reference range,Amplification,40,1033,0.03872216844143272
+2025-07_23,fixed_H_median,vwap,amount,Within reference range,Attenuation,20,1033,0.01936108422071636
+2025-07_23,fixed_H_median,vwap,amount,Within reference range,Within reference range,600,1033,0.5808325266214908
+2025-07_23,fixed_H_median,vwap,R,True,True,1033,1033,1
+2025-07_23,fixed_H_median,vwap,H,True,False,1,1033,0.000968054211035818
+2025-07_23,fixed_H_median,vwap,H,True,True,1032,1033,0.9990319457889641

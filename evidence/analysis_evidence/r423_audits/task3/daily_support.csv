@@ -1,0 +1,4 @@
+threshold,supported_day_segments,station_days_any_segment,station_days_all9,paired_boundary_days,supported_stations
+0.7,2101954,239550,223313,1387562,1541
+0.8,2099086,237688,222814,1387176,1541
+0.9,2098665,237612,222706,1386808,1541

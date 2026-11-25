@@ -1,0 +1,13 @@
+﻿dataset,attribute,fields,status,meaning
+Beijing,pile ID,pile_id,present,station+month+pile ID; not gun ID
+Beijing,rated power,rated_gun_power_kw,present,"recorded rated power, not actual power"
+Beijing,AC/DC,equipment_classification,present,released direct type
+Beijing,station pile counts,piles_num;dc_piles_num;ac_piles_num,present,static date unverified
+Beijing,location,geocoding,partial,coded field; no longitude/latitude/district columns
+Beijing,operator/platform,,absent,no group attribution possible
+Beijing,public/dedicated type,,absent,construction_site is surrounding-POI scene
+Beijing,fast-charger share,,not_directly_available,DC share reported explicitly; no speed equivalence assumed
+UrbanEV,position,longitude;latitude;TAZID,present,TAZ not assumed equal to administrative district
+UrbanEV,pile counts,slow_count;fast_count;charge_count,present,static release
+UrbanEV,pile properties,pile_id;power;pileType;station_id,present,actual pile_id header differs from README pileNo
+UrbanEV,operator/platform,,absent,cannot attribute a strategy

@@ -1,0 +1,15 @@
+﻿qualified_205,rule,change_reason,stations
+False,majority,no_monthly_category_change,863
+False,majority,only_sufficient_vs_insufficient_coverage,584
+False,strict,no_monthly_category_change,823
+False,strict,observed_category_and_coverage_changes,20
+False,strict,observed_category_changes,40
+False,strict,only_sufficient_vs_insufficient_coverage,564
+True,majority,no_monthly_category_change,97
+True,majority,observed_category_and_coverage_changes,2
+True,majority,observed_category_changes,2
+True,majority,only_sufficient_vs_insufficient_coverage,104
+True,strict,no_monthly_category_change,96
+True,strict,observed_category_and_coverage_changes,3
+True,strict,observed_category_changes,3
+True,strict,only_sufficient_vs_insufficient_coverage,103

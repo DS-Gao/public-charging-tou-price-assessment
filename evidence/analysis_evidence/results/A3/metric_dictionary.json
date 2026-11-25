@@ -1,0 +1,402 @@
+[
+  {
+    "metric": "n_A",
+    "unit": "stations",
+    "replicate_definition": "|A|",
+    "within_replicate_denominator": "fixed panel of 180",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 149,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "A_coverage",
+    "unit": "proportion",
+    "replicate_definition": "|A|/180",
+    "within_replicate_denominator": "fixed panel of 180",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 149,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "n_true_R",
+    "unit": "stations",
+    "replicate_definition": "|A intersect {true E*>0.01}|",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 150,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "n_est_R",
+    "unit": "stations",
+    "replicate_definition": "|A intersect {estimated E*>0.01}|",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 150,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "true_R_prevalence",
+    "unit": "proportion",
+    "replicate_definition": "mean(true E*>0.01) on A",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 151,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "estimated_R_prevalence",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated E*>0.01) on A",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 151,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "electricity_category_error",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated vs true E three-way category differs); thresholds +/-0.01",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 152,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "total_category_error",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated vs true T three-way category differs); thresholds +/-0.03",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 153,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "R_sensitivity",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated E*>0.01) on supported true R",
+    "within_replicate_denominator": "A intersect true R",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 154,
+    "undefined_rule": "NA if no supported true R",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "R_precision",
+    "unit": "proportion",
+    "replicate_definition": "mean(true E*>0.01) on supported estimated R",
+    "within_replicate_denominator": "A intersect estimated R",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 155,
+    "undefined_rule": "NA if no supported estimated R",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "near_R_threshold_error",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated R indicator != true R indicator), abs(true E*-0.01)<=0.003",
+    "within_replicate_denominator": "supported near-threshold stations",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 157,
+    "undefined_rule": "NA if no near-threshold stations",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "far_R_threshold_error",
+    "unit": "proportion",
+    "replicate_definition": "same indicator error, abs(true E*-0.01)>0.003",
+    "within_replicate_denominator": "supported far-threshold stations",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 159,
+    "undefined_rule": "NA if no far-threshold stations",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "E_bias",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(error) with error=estimated E* - true E*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 163,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "E_mae",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(abs(error)) with error=estimated E* - true E*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 164,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "E_mse",
+    "unit": "(RMB/kWh)^2",
+    "replicate_definition": "mean(error^2) with error=estimated E* - true E*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 165,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "T_bias",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(error) with error=estimated T* - true T*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 163,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "T_mae",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(abs(error)) with error=estimated T* - true T*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 164,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "T_mse",
+    "unit": "(RMB/kWh)^2",
+    "replicate_definition": "mean(error^2) with error=estimated T* - true T*",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 165,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "D30_bias",
+    "unit": "reference RMB",
+    "replicate_definition": "mean(error) with error=30*((estimated T*-estimated E*)-(true T*-true E*))",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 163,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "D30_mae",
+    "unit": "reference RMB",
+    "replicate_definition": "mean(abs(error)) with error=30*((estimated T*-estimated E*)-(true T*-true E*))",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 164,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "D30_mse",
+    "unit": "(reference RMB)^2",
+    "replicate_definition": "mean(error^2) with error=30*((estimated T*-estimated E*)-(true T*-true E*))",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 165,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "residual_bias",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(error) with error=(estimated T*-estimated E*-estimated S*)-(true T*-true E*-true S*)",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 163,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "residual_mae",
+    "unit": "RMB/kWh",
+    "replicate_definition": "mean(abs(error)) with error=(estimated T*-estimated E*-estimated S*)-(true T*-true E*-true S*)",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 164,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "residual_mse",
+    "unit": "(RMB/kWh)^2",
+    "replicate_definition": "mean(error^2) with error=(estimated T*-estimated E*-estimated S*)-(true T*-true E*-true S*)",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 165,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_truth_R",
+    "unit": "RMB/kWh",
+    "replicate_definition": "F(true prices, A intersect true R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 169,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_price_error_fixed_true_R",
+    "unit": "RMB/kWh",
+    "replicate_definition": "F(estimated prices, A intersect true R)-F(true prices, A intersect true R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 170,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_combined_error",
+    "unit": "RMB/kWh",
+    "replicate_definition": "F(estimated prices, A intersect estimated R)-F(true prices, A intersect true R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 171,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_price_error_given_est_R",
+    "unit": "RMB/kWh",
+    "replicate_definition": "F(estimated prices, A intersect estimated R)-F(true prices, A intersect estimated R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 172,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_membership_change",
+    "unit": "RMB/kWh",
+    "replicate_definition": "F(true prices, A intersect estimated R)-F(true prices, A intersect true R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 173,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_combined_absolute_error",
+    "unit": "RMB/kWh",
+    "replicate_definition": "abs(FIQR_combined_error); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 177,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "FIQR_fixed_R_absolute_error",
+    "unit": "RMB/kWh",
+    "replicate_definition": "abs(FIQR_price_error_fixed_true_R); F=IQR(T*)-IQR(E*), NumPy type 7",
+    "within_replicate_denominator": "specified supported R group",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 178,
+    "undefined_rule": "NA when any required F group has fewer than 2 members",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "full_true_mean_abs_B30",
+    "unit": "reference RMB",
+    "replicate_definition": "mean(abs(30*true T*))",
+    "within_replicate_denominator": "all 180 latent stations",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 179,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "supported_true_mean_abs_B30",
+    "unit": "reference RMB",
+    "replicate_definition": "mean(abs(30*true T*))",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 180,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "estimated_mean_abs_B30",
+    "unit": "reference RMB",
+    "replicate_definition": "mean(abs(30*estimated T*))",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 181,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "amount_reconstruction_error_on_A",
+    "unit": "reference RMB",
+    "replicate_definition": "estimated_mean_abs_B30-supported_true_mean_abs_B30",
+    "within_replicate_denominator": "A",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 184,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "amount_support_composition_difference",
+    "unit": "reference RMB",
+    "replicate_definition": "supported_true_mean_abs_B30-full_true_mean_abs_B30",
+    "within_replicate_denominator": "A vs full panel",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 185,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "amount_combined_difference_from_full",
+    "unit": "reference RMB",
+    "replicate_definition": "estimated_mean_abs_B30-full_true_mean_abs_B30",
+    "within_replicate_denominator": "A vs full panel",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 186,
+    "undefined_rule": "none in frozen formal output",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "true_R_retention",
+    "unit": "proportion",
+    "replicate_definition": "mean(true T*>0.03) on supported true R",
+    "within_replicate_denominator": "A intersect true R",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 189,
+    "undefined_rule": "NA if no supported true R",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "estimated_R_retention",
+    "unit": "proportion",
+    "replicate_definition": "mean(estimated T*>0.03) on supported estimated R",
+    "within_replicate_denominator": "A intersect estimated R",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 190,
+    "undefined_rule": "NA if no supported estimated R",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  },
+  {
+    "metric": "retention_error",
+    "unit": "proportion difference",
+    "replicate_definition": "estimated_R_retention-true_R_retention",
+    "within_replicate_denominator": "different supported R groups as specified",
+    "source_file": "frozen/source_code/reconstruction_simulation.py",
+    "source_line": 191,
+    "undefined_rule": "NA if either retention is unavailable",
+    "summary": "mean of finite replicate metrics; MCSE=sample SD(ddof=1)/sqrt(n_finite); n_nonfinite retained"
+  }
+]

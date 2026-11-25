@@ -1,0 +1,37 @@
+system,population,event,event_description,group_type,top_k_excluded,full_event_n,full_denominator_A_n,full_event_share_of_A,all_groups_n,positive_event_groups_n,excluded_event_n,excluded_denominator_A_n,remaining_event_n,remaining_denominator_A_n,remaining_event_rate,remaining_share_of_original_event,remaining_share_of_original_A,top_k_exclusion_status,top_k_exclusion_not_applicable
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,0,2795,8133,0.343661625476,6,6,0,0,2795,8133,0.343661625476,1,0.343661625476,full,False
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,0,2795,8133,0.343661625476,2,2,0,0,2795,8133,0.343661625476,1,0.343661625476,full,False
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,0,2795,8133,0.343661625476,2368,1082,0,0,2795,8133,0.343661625476,1,0.343661625476,full,False
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,1,2795,8133,0.343661625476,2368,1082,10,10,2785,8123,0.342853625508,0.996422182469,0.342432066888,applied,False
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,5,2795,8133,0.343661625476,2368,1082,43,44,2752,8089,0.340215106935,0.984615384615,0.338374523546,applied,False
+Beijing,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,10,2795,8133,0.343661625476,2368,1082,83,84,2712,8049,0.336936265375,0.97030411449,0.333456289192,applied,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,boundary,0,5235,49369,0.106038202111,6,6,0,0,5235,49369,0.106038202111,1,0.106038202111,full,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,month,0,5235,49369,0.106038202111,6,6,0,0,5235,49369,0.106038202111,1,0.106038202111,full,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,0,5235,49369,0.106038202111,1541,205,0,0,5235,49369,0.106038202111,1,0.106038202111,full,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,1,5235,49369,0.106038202111,1541,205,36,36,5199,49333,0.105385847202,0.993123209169,0.105308999575,applied,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,5,5235,49369,0.106038202111,1541,205,180,180,5055,49189,0.102766878774,0.965616045845,0.102392189431,applied,False
+UrbanEV,A,abs_D30_gt_0_90_RMB,abs(D30)>0.90 RMB on A,station,10,5235,49369,0.106038202111,1541,205,360,360,4875,49009,0.0994715256381,0.931232091691,0.0987461767506,applied,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,0,92,8133,0.0113119390139,6,6,0,0,92,8133,0.0113119390139,1,0.0113119390139,full,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,0,92,8133,0.0113119390139,2,2,0,0,92,8133,0.0113119390139,1,0.0113119390139,full,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,0,92,8133,0.0113119390139,2368,65,0,0,92,8133,0.0113119390139,1,0.0113119390139,full,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,1,92,8133,0.0113119390139,2368,65,5,10,87,8123,0.0107103286963,0.945652173913,0.0106971597197,applied,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,5,92,8133,0.0113119390139,2368,65,18,29,74,8104,0.00913129318855,0.804347826087,0.00909873355465,applied,False
+Beijing,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,10,92,8133,0.0113119390139,2368,65,28,55,64,8078,0.00792275315672,0.695652173913,0.00786917496619,applied,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,boundary,0,3893,49369,0.0788551520185,6,6,0,0,3893,49369,0.0788551520185,1,0.0788551520185,full,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,month,0,3893,49369,0.0788551520185,6,6,0,0,3893,49369,0.0788551520185,1,0.0788551520185,full,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,0,3893,49369,0.0788551520185,1541,204,0,0,3893,49369,0.0788551520185,1,0.0788551520185,full,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,1,3893,49369,0.0788551520185,1541,204,30,36,3863,49333,0.0783045831391,0.992293860776,0.0782474832385,applied,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,5,3893,49369,0.0788551520185,1541,204,150,180,3743,49189,0.0760942487141,0.961469303879,0.0758168081185,applied,False
+UrbanEV,A,labels_unequal_kappa_0_03,E/T labels unequal at kappa=0.03 on A,station,10,3893,49369,0.0788551520185,1541,204,300,360,3593,49009,0.0733130649473,0.922938607758,0.0727784642184,applied,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,0,1543,8133,0.1897208902,6,6,0,0,1543,8133,0.1897208902,1,0.1897208902,full,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,0,1543,8133,0.1897208902,2,2,0,0,1543,8133,0.1897208902,1,0.1897208902,full,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,0,1543,8133,0.1897208902,2368,798,0,0,1543,8133,0.1897208902,1,0.1897208902,full,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,1,1543,8133,0.1897208902,2368,798,9,10,1534,8123,0.188846485289,0.99416720674,0.188614287471,applied,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,5,1543,8133,0.1897208902,2368,798,36,40,1507,8093,0.186210305202,0.97666882696,0.185294479282,applied,False
+Beijing,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,10,1543,8133,0.1897208902,2368,798,66,77,1477,8056,0.183341608739,0.957226182761,0.181605803517,applied,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,boundary,0,0,49369,0,6,0,0,0,0,49369,0,,0,full,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,month,0,0,49369,0,6,0,0,0,0,49369,0,,0,full,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,0,0,49369,0,1541,0,0,0,0,49369,0,,0,full,False
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,1,0,49369,0,1541,0,0,0,0,49369,0,,0,not_applicable_zero_event,True
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,5,0,49369,0,1541,0,0,0,0,49369,0,,0,not_applicable_zero_event,True
+UrbanEV,A,primary_screening_symmetric_difference,A primary 20% screening symmetric difference,station,10,0,49369,0,1541,0,0,0,0,49369,0,,0,not_applicable_zero_event,True

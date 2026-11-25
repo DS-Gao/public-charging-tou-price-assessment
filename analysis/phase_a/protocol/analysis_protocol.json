@@ -1,0 +1,68 @@
+{
+  "phase": "Conditional paired station-bootstrap analysis",
+  "primary_operator": "median",
+  "V": 5846,
+  "formation_units": 6883,
+  "layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12
+  ],
+  "overall_weight": "equal 10 layers; stations equal within each layer",
+  "estimand": "mean_l mean_i(abs(E_f-Y)-abs(E_f+S_f-Y))",
+  "expected_point": 0.01902373553660184,
+  "main_frame": {
+    "name": "formation_2342",
+    "stations": 2342,
+    "draws": 2000,
+    "seed": 20260920,
+    "generator": "numpy.default_rng / PCG64",
+    "schedule": "sorted string station IDs; choice(N,N,replace=True) once per draw; bincount minlength=N",
+    "reason": "Exact saved original stream located in public release src/prices/fast_bootstrap.py; reuse and verify against saved draw-level E/LOCAL results."
+  },
+  "sensitivity_frame": {
+    "name": "evaluation_2147",
+    "stations": 2147,
+    "draws": 2000,
+    "seed": 2026111601,
+    "generator": "numpy.default_rng / PCG64",
+    "schedule": "same mechanism on sorted unique V station IDs; separate prespecified stream"
+  },
+  "empty_layer": "Any empty main layer invalidates full overall draw; no nine-layer averaging or replacement draws",
+  "interval": "2.5/97.5 percentile, numpy linear quantile, valid draws only",
+  "pairing": "one station multiplier shared across all layers/months and E,E_plus_S,LOCAL",
+  "descriptive_extensions": [
+    "ST/TX/KWH from full original Af exposures then condition to V",
+    "Af/Cf/Af_minus_Cf with distinct availability and loss denominators",
+    "remove all seven ST_003774 evaluation units; preserve primary",
+    "original/CD common 5572 units; original Y and Af activity weights",
+    "original Z_f groups as secondary SI evidence, not service-only groups"
+  ],
+  "CD_decision": "Common-date input sensitivity holds the original evaluation target and activity-weight definition fixed.",
+  "Z_definition": "Z_f=T_f-E_f=S_f+r_f; original 0.03 grouping unchanged",
+  "primary_inference": "overall E_to_E_plus_S only; month/layer estimates descriptive, no simultaneous-significance claim",
+  "fixed": [
+    "reconstructed prices",
+    "support",
+    "qualification",
+    "V",
+    "validation target",
+    "primary baseline"
+  ],
+  "not_run": [
+    "raw transaction reconstruction",
+    "regression",
+    "permutation",
+    "SI2 simulation",
+    "manuscript edits"
+  ],
+  "success": "rule fidelity and reproducibility, independent of interval crossing zero",
+  "locked_before_new_results_utc": "2026-11-16T14:49:33.550993+00:00"
+}
